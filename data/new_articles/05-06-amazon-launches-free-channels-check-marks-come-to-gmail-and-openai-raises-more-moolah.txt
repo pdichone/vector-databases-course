@@ -1,0 +1,43 @@
+It’s that time of week again, folks — Week in Review (WiR) time. For those new to the scene, WiR is TechCrunch’s regular newsletter that recaps the biggest tech stories over the past few days. There’s no better digest for the person on the go, we’d argue — but of course, we’re a little biased.
+
+Before we get into the meat of the thing, a quick reminder that TC City Spotlight: Atlanta is fast approaching. On June 7, TechCrunch is headed to Atlanta, where we’ll host a pitch competition, a talk on the economics of equality, a panel discussion on investing in the Atlanta ecosystem and more.
+
+Elsewhere, there’s a TechCrunch Live event with Persona and Index Ventures on May 10, which will touch on how Persona keeps pace with new threats and how Index made a prescient move to spot and back Persona early on. And we have Disrupt in San Francisco from September 19–21 — our annual conference is jam-packed with expert-led sessions and interviews with movers and shakers in the tech space.
+
+Now, with that out of the way, here’s the top headlines.
+
+most read
+
+Amazon debuts free channels: Amazon is doubling down on free, ad-supported content with this week’s introduction of Fire TV Channels. The new, free and ad-supported video experience, which came to Fire TV devices this week, will be continuously updated throughout the day and integrated into several areas across the Fire TV interface, Sarah reports.
+
+Bio update for a check: Briefly, a bug on Twitter let legacy blue check holders get their badge back by updating their bio. Readers will recall that blue checks on Twitter once signified that a user was “verified,” but now serve as an indication that they’re paying for Twitter’s premium subscription service, Twitter Blue. Verified users who chose not to pay recently faced the prospect of blue check removal — but not necessarily permanently, judging by the bug.
+
+Google ditches passwords for passkeys: This week Google rolled out passkeys to Google Account users globally, roughly a year after the company — alongside Apple, Microsoft and the FIDO Alliance — announced a partnership to broadly advance passkey adoption. With passkeys, users’ authentication synchronizes across devices through the cloud using cryptographic key pairs, allowing them to sign in to websites and apps using the same biometrics or screen-lock PIN they use to unlock their devices.
+
+Microsoft debuts Pegasus: Microsoft this week announced that it’ll extend the Startup Founders Hub, its self-service platform that provides founders with free resources, including Azure credits, with a new incubator program called the Pegasus Program. Pegasus will select startups with products that “fill a market need” and give them up to $350,000 in Azure, GitHub and LinkedIn credits plus backing from advisors, as well as “access to the best Microsoft tech,” Microsoft says.
+
+Blue check marks come to Gmail: Google is going to start displaying a blue check mark next to select senders’ names on Gmail to verify their identity, the company said on Wednesday. The check marks will automatically appear next to companies that have adopted Gmail’s existing brand indicators for message identification feature, reports Aisha.
+
+OpenAI rakes in the dough: OpenAI, the startup behind the widely used conversational AI model ChatGPT, has picked up new backers. In an exclusive report, Jagmeet and Ingrid reveal that VC firms, including Sequoia Capital, Andreessen Horowitz, Thrive, K2 Global and Founders Fund, have put just over $300 million into OpenAI, valuing the company at between $27 billion and $29 billion.
+
+Apple releases security fix: On Monday, Apple released its first batch of publicly available “rapid security” patches, aimed at quickly fixing security vulnerabilities that are under active exploitation or pose significant risks to its customers. Apple says that these patches, which are enabled by default, were intended to let customers update their devices faster than a typical software upgrade.
+
+Musk settles for less: A defamation case brought against Tesla chief executive Elon Musk by critic Randeep Hothi is coming to a close, reportedly costing the billionaire ten big ones. Lawyers representing Hothi — a vocal member of the TSLAQ short-seller community on Twitter who rose to prominence as a skeptic of Tesla’s gigafactory plans and “full self-driving” tech — said in a statement that Musk asked to settle the nearly three-year-old case back in March.
+
+A new LLM for Alexa: Amazon is building a more “generalized and capable” large language model to power Alexa, said Amazon CEO Andy Jassy during the company’s first-quarter earnings call this week. He added that although Amazon has had an LLM powering Alexa, Amazon is working on one that’s more capable than the current one.
+
+audio
+
+TechCrunch’s stable of podcasts grows by the day — and it’s all quality stuff. This week, the Equity folks covered First Republic Bank, Poparazzi’s shutdown, Databricks’ acquisition, who’s going head-to-head with Stripe, the rise of down rounds and why Bluesky had them feeling less gray. Meanwhile, Found spoke with Stefan Bauer about how his company, Marker Learning, is cutting the cost of learning disability assessments by conducting them remotely. Chain Reaction interviewed Jake Chervinsky, the chief policy officer at Blockchain Association, a nonprofit organization focused on promoting “pro-innovation” policy for the digital asset world. On The TechCrunch Podcast — which, like WiR, covers the week in tech news — Devin talked about whether Meta’s cavalier approach to compliance might finally be coming to a close. And last but not least, TechCrunch Live profiled Sam Chaudhary, the founder of ClassDojo, and Chris Farmer, the founder and CEO of SignalFire, about playing the long game in edtech, investing in companies that aren’t rushing to monetize and the “outsider advantage.”
+
+TechCrunch+
+
+TC+ subscribers get access to in-depth commentary, analysis and surveys — which you know if you’re already a subscriber. If you’re not, consider signing up. Here are a few highlights from this week:
+
+A cloudy future: Lyft’s equity is selling off in the wake of the U.S. ride-hailing giant’s first-quarter results and its comments regarding the current quarter, and how its new strategic posture will affect its growth and economics in the coming quarters. But there’s not necessarily cause for panic. Alex and Anna write about Lyft’s new tack and the potential upsides, of which there are several.
+
+Down but not out: For the past year, everyone’s been predicting that the muted exit environment and bone-dry funding market would bring a reckoning for many late-stage companies. Down rounds carry a negative connotation and are often interpreted as the fault of the company or founder. But in a market where everything seems to be heading downward, they shouldn’t imply a company or its founders made a mistake — you often simply can’t help it, Rebecca writes.
+
+ChatGPT, meet edtech: Shares of edtech company Chegg fell off a cliff this week even after the company reported Q1 results that bested analyst expectations. In its earnings call, the company’s executives noted that ChatGPT was slowing its ability to add new subscribers, not only potentially slowing growth but also throwing uncertainty into its ability to predict its future financial results. Alex and Natasha M dig deeper.
+
+Get your TechCrunch fix IRL. Join us at Disrupt 2023 in San Francisco this September to immerse yourself in all things startup. From headline interviews to intimate roundtables to a jam-packed startup expo floor, there’s something for everyone at Disrupt. Save up to $800 when you buy your pass now through May 15, and save 15% on top of that with promo code WIR. Learn more.

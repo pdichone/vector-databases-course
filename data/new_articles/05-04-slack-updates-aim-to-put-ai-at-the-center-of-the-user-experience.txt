@@ -1,0 +1,25 @@
+Slack has evolved from a pure communications platform to one that enables companies to link directly to enterprise applications without having to resort to dreaded task switching. Today, at the Salesforce World Tour event in NYC, the company announced the next step in its platform’s evolution where it will be putting AI at the forefront of the user experience, making it easier to get information and build workflows.
+
+It’s important to note that these are announcements, and many of these features are not available yet.
+
+Rob Seaman says that rather than slapping on an AI cover, they are working to incorporate it in a variety of ways across the platform. That started last month with a small step, a partnership with OpenAI to bring a ChatGPT app into Slack, the first piece of a much broader vision for AI on the platform. That part is in beta at the moment.
+
+Today’s announcement involves several new integrations, including SlackGPT, the company’s own flavor of generative AI built on top of the Slack platform, which users and developers can tap into to build AI-driven experiences. The content in Slack provides a starting point for building models related to the platform.
+
+“We think Slack has a unique advantage when it comes to generative AI. A lot of the institutional knowledge on every topic, team, work item and project is already in Slack through the messages, the files and the clips that are shared every day,” he said.
+
+When you combine that with Slack’s Partner ecosystem and platform, customers have a lot of options for integrating AI into their workflows. He says that Slack is thinking about this in three ways right now.
+
+“For starters, Slack is going to bring AI natively into the user experience with SlackGPT to help customers work faster, communicate better, learn faster, etc. And an example of that is AI-powered conversation summaries and writing assistance for composition that’s going to be directly available in Slack,” he said.
+
+The former could as an example help employees get caught up on a long thread without having to read every message to get the gist of what was being discussed. The latter could help generate Slack messages or content for linked Slack applications. That’s a little less obvious use case. It’s probably easier to write a Slack message yourself unless it’s an automated message that’s part of a workflow, but if you are creating content for Slack Canvas, you could let the generative AI help you.
+
+Developers can get in on the action too, building AI steps into workflows, giving them the option of tapping into external apps and large language models to build generative AI experiences themselves. Just last week the company made its updated developer experience generally available, and this should make it easier to incorporate generative AI into the platform in customized ways, Seaman says.
+
+“So this gives us the foundation to give users choice and flexibility to bring AI into their work in their business whenever they’re ready, and however they like. We’ve got 2,600 apps in the ecosystem right now, which includes a lot of the leading LLMs, and we see a lot of customers already choosing to integrate generative AI into Slack themselves,” he said.
+
+Finally EinsteinGPT, the Salesforce flavor of generative AI announced in March, will also be incorporated into Slack, letting employees ask questions directly about Salesforce content, like the users most likely to churn or the accounts most likely to buy, and so forth. This is really about more directly integrating Salesforce content into Slack, the company Salesforce paid $27 billion for a couple of years ago.
+
+“Slack is really becoming the conversational interface for Salesforce. So that’s bringing those EinsteinGPT-powered insights from the real-time customer data that exists in Salesforce into Slack to enrich every team’s understanding of the customer,” he said.
+
+As with most of the generative AI tooling we’ve seen being added to enterprise software, Slack is announcing these capabilities long before they release them, but this should give customers a sense of what’s coming, and how AI could be transforming Slack in the future. SlackGPT and EinsteinGPT integration are still in the development phase, but developers can build custom integrations with a variety of LLMs, today. Workflow Builder with SlackGPT AI connectors (which will allow customers to instantly connect ChatGPT or Claude to a workflow or build custom connectors that plug in their own LLMs) will be available this summer.

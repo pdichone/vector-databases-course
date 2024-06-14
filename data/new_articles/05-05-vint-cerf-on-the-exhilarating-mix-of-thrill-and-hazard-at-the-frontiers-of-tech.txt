@@ -1,0 +1,99 @@
+Vint Cerf on the ‘exhilarating mix’ of thrill and hazard at the frontiers of tech 'That's always an exciting place to be — a place where nobody's ever been before.'
+
+Vint Cerf has been a near-constant influence on the internet since the days when he was helping create it in the first place. Today he wears many hats, among them VP and chief internet evangelist at Google. He is to be awarded the IEEE’s Medal of Honor at a gala in Atlanta, and ahead of the occasion he spoke with TechCrunch in a wide-ranging interview touching on his work, AI, accessibility and interplanetary internet.
+
+TechCrunch: To start out with, can you tell us how Google has changed in your time there?
+
+Cerf: Well, when I joined the company in 2005, there were 5,000 people already, which is pretty damn big. And of course, my normal attire is three piece suits. The important thing is that I thought I would be raising the sartorial quotient of the company by joining. And now, almost 18 years later, there are 170-some-odd thousand people, and I have failed miserably. So I hope you don’t mind if I take my jacket off.
+
+Go right ahead.
+
+So as you might have noticed, Sergey has come back to do a little bit more on the artificial intelligence side of things, which is something he’s always been interested in; I would say historically, we’ve always had an interest in artificial intelligence. But that has escalated significantly over the past decade or so. The acquisition of DeepMind was a brilliant choice. And you can see some of the outcomes first of the spectacular stuff, like playing Go and winning. And then the more productive stuff, like figuring out how 200 million proteins are folded up.
+
+Then there’s the large language models and the chatbots. And I think we’re still in a very peculiar period of time, where we’re trying to characterize what these things can and can’t do, and how they go off the rails, and how do you take advantage of them to do useful work? How do we get them to distinguish fact from fiction? All of that is in my view open territory, but then that’s always an exciting place to be — a place where nobody’s ever been before. The thrill of discovery and the risk of hazard create a fairly exciting mix — an exhilarating mix.
+
+You gave a talk recently about, I don’t want to say the dangers of the large language models, but…
+
+Well, I did say there are hazards there. I was talking to a bunch of investment bankers, or VCs, and I said, you know, don’t try to sell stuff to your investors just because it’s flashy and shiny. Be cautious about going too fast and trying to apply it without figuring out how to put guardrails in place.
+
+I raised a question of hazard and wanting people to be more thoughtful about which applications made sense. I even suggested an analogy: you know how the Society of Automotive Engineers, they have different risk levels for the self driving cars — a risk level idea could apply to artificial intelligence and machine learning.
+
+For entertainment purposes, perhaps it’s not too concerning, unless it goes down some dark path, in which case, you might want to put some friction into the system to deal with that, especially a younger user. But then, as you get to the point where you’re training these things to do medical diagnosis or make investment advice, or make decisions about whether somebody gets out of jail… now suddenly, the risk factors are extremely high.
+
+We shouldn’t be unaware of those risk factors. We can, as we build applications, be prepared to detect excursions away from safe territory, so that we don’t accidentally inflict some harm by the use of these kinds of technologies.
+
+So we need some kind of guardrails.
+
+Again, I’m not expert in this space, but I am beginning to wonder whether we need something kind of like that in order to provide a “super-ego” for the natural language network. So when it starts to go off the rails somewhere, we can observe that that’s happening. And a second network that’s observing both the input and the output might intervene, somehow, and stop the the production of the output.
+
+Sort of a conscience function?
+
+Well, it’s not quite conscience, it’s closer to executive function — the prefrontal cortex. I want to be careful, I’m only reasoning by metaphor here.
+
+I know that Microsoft has embarked on something like this. Their version of GPT-4 has an intermediary model like that, they call it Prometheus.
+
+Purely as an observation, I had the impression that the Prometheus natural language model would detect and intervene if it thought that the interactions were going down with dark path. I thought that they would implement it in such a way that before you actually say something to the interlocutor that is going down the dark path, you intervene and prevent it from going there at all.
+
+My impression, though, is that it actually produces the output and then discovers that it’s produced it, but and then it says, “Oh, I shouldn’t have done that. Oh, dear, I take that back,” or “I don’t want to talk to you anymore about that.” It’s a little bit like the email that you get occasionally from the Microsoft Outlook system that says, “This person would like to withdraw the message.”
+
+I love when that happens… it makes me want to read the original message so badly, even if I wouldn’t have before.
+
+Yeah, exactly. It’s sort of like putting a big red flag in there saying, boy there’s something juicy in here.
+
+You mentioned the AI models, that it’s an interesting place to work. Do you get the same sort of foundational flavor that you got from working on protocols and other big shared things over the years?
+
+Well, what we are seeing is emergent properties of these large language models, that are not necessarily anticipated. And there have been emergent properties showing up in the protocol world. Flow control in particular is a vast headache in the online packet switch environment, and people have been tackling these problems inside and outside of Google for years.
+
+One of the examples of emergent properties that I think very few of us thought about is the domain name business. Once they had value, suddenly, all kinds of emergent properties show up, people with interests that conflict and have to be resolved. Same for internet address space, it’s an even more weird environment where people actually buy IPv4 addresses for like $50 each.
+
+I confess to you that as I watched the auctions for IPv4 address space, I was thinking how stupid I was. When I was at the Defense Department in charge of all this, I should have allocated the slash eight, which is 16 million addresses, to myself, and just sit on it, you know, for 50 years, then sell it and retire.
+
+Even simple systems have the ability to surprise you. Especially when you have simple systems when a large number of them are interacting with each other. I’ve found myself not necessarily recognizing when these emergent properties will come, but I will say that whenever something gets monetized, you should anticipate there will be emergent properties and possibly unexpected behavior, all driven by greed.
+
+Let me ask you about some some other stuff you’re working on. I’m always happy when I see cutting-edge tech being applied to people who need it, people with disabilities, people who like just have not been addressed by the current use cases of tech. Are you still working in the accessibility community?
+
+I am very active in the accessibility space. At Google, we have a number of what we call employee resource groups, or ERGs. Yeah, some of them I, executive sponsor for one for Googlers who have hearing problems. And there is a disabilities oriented group, which involves employees who either have disabilities or family members that have disabilities, and they share their stories with each other because often people have similar problems, but don’t know what the solutions were for other people. Also, it’s just nice to know that you’re not alone in some of these challenges. There’s another group called the Grayglers for people that have a little gray in their hair, and I’m the executive sponsor for that. And of course, the focus of attention there is the challenges that arise as you get older, even as you think about retirement and things like that.
+
+When a lot of so-called Web 2.0 stuff came out 10 years ago, it was totally inaccessible, broke all the screen readers, all this kind of stuff. Somebody has to step in and say, look, we need to have this standard, or else you’re leaving out millions of people. So I’m always interested to hear about what interesting projects or organizations or people are out there.
+
+What I have come to believe is that engineers, being just given a set of specs that say if you do it this way, it will meet this level of the standard… that doesn’t necessarily produce intuition. You really have to have some intuition in order to make things accessible.
+
+So I’ve come to the conclusion that what we really need is to show people examples of something which is not accessible, and something that is, and let them ingest as many examples as we can give them, because their neural networks will eventually figure out, what is it about this design that makes it accessible? And how do I apply that insight into the next design that I do? So, seeing what works and what doesn’t work is really important. And you often learn a lot more from what doesn’t work than you do from what does.
+
+There’s a guy named Gregg Vanderheiden, who’s at the University of Maryland, he and I did a two-day event [the Future of Interface Workshop] looking at research on accessibility and trying to frame what this is going to look like over the next 10 or 20 years. It really is quite astonishing what the technology might be able to do to act as an augmenting capability for people that that need assistance. There’s great excitement, but at the same time great disappointment, because we haven’t used it as effectively as I think we could have. It’s kind of like how Alexander Graham Bell invented a telephone that can’t be used by people who are deaf, which is why he was working on it in the first place.
+
+It is a funny contradiction of priorities. One thing where I do see some of the the large language and multimodal AI models helping out is that they can describe what they are seeing, even if you can’t see it. I know that one of GPT-4’s first applications was in an application for blind people to view the world around them.
+
+We’re experiencing something close to that right this minute. Since I wear hearing aids, I’m making use of the captioning capability. And at the moment since this is Zoom rather than a Google Meet, there isn’t any setting on this one for closed captioning. I’m exercising the Zoom application through the Chrome browser, and Google has developed a capability for the Chrome browser to detect speech in the incoming sound.
+
+So packets are coming in and they’re known to be sound, it passes through an identification system that produces a caption bar, which you can move around on the screen. And that’s been super helpful for me. For cases like this, where the application doesn’t have captioning, or for random video streaming video that might be coming in and hasn’t been captioned, the caption window automatically pops up. In theory, I think we can do this in 100 different languages, although I don’t know that we’ve activated it for more than four or five. As you say, these tools will become more and more normal, and as time goes on, people will expect the system to adapt to their needs.
+
+So language translation, and speech recognition is quite powerful, but I do want to mention something that I found vaguely unsettling. Recently, I encountered an example of a conversation between a reporter and a chatbot. But he chose deliberately to take the output of the chat bot and have it spoken by the system. And he chose the style of a famous British explorer [David Attenborough].
+
+The text itself was quite well formed, but coming with Attenborough’s accent just added to the weight of the assertions even when they were wrong. The confidence levels, as I’m sure you’ve seen, are very high, even when the thing doesn’t know what it’s talking about.
+
+The reason I bring this up is that we are allowing in these indicators of, how should we say this, of quality, to fool us. Because in the past, they really did mean it was David Attenborough. But here it’s not, it’s just his voice. I got to thinking about this, and I realized there was an ancient example of exactly this problem that showed up 50 years ago at Xerox PARC.
+
+They had a laser printer, and they had the Alto workstation, and the Bravo text editor, it meant the first draft of anything you type to be printed out beautifully formatted with lovely forms and everything else. Normally, you would never see that production quality until after everything had been edited, you know, wrestled with by everybody to get the text formatted, picture-perfect stuff. That meant the first draft stuff came out looking like it was final draft. People didn’t didn’t understand that they were nuts, that they were seeing first-round stuff, and that it wasn’t complete, or necessarily even satisfactory.
+
+So it occurred to me that we’ve reached a point now where technology is fooling us into giving it more weight than it deserves, because of certain indicia that used to be indicative of the investment made in producing it. And… I’m not quite sure what to do about that.
+
+I don’t think anyone is!
+
+I think somehow or another, we need to make it clear what the provenance is of the thing that we’re looking at. Like how we needed to say this is first-draft material, you know, don’t make any assumptions. So provenance turns out to be a very important concept, especially in a world where we have the ability to imbue content with attributes that we would normally interpret in one way. Like, it’s David Attenborough speaking, and we should listen to that. And yet, which have to be, we have to think more critically about them. Because in fact, the attribute is being delivered artificially.
+
+And perhaps maliciously.
+
+Certainly that too. And this is why critical thinking has become an important skill. But it doesn’t work very well, unless you have enough information to understand the provenance of the material that you’re looking at. I think we are going to have to invest more in provenance and identity in order to evaluate the quality of that which we are experiencing.
+
+I wanted to ask you about interplanetary internet, because that whole area is extremely interesting to me.
+
+Well, this one, of course, gets started way back in 1998. But I’m a science fiction reader from way back way to age 10 or something, so I got quite excited when it was possible to even think about the possibility of designing and building a communication system that would span the solar system.
+
+The team got started very small, and now 25 years later involves many of the space agencies around the world: JAXA, the Korean Space Agency, NASA and so on. And a growing team of people who are either government funded to do space-based research, or volunteers. There’s a special interest group called the interplanetary networking Special Interest Group, which is part of the Internet Society — that thing got started in 1998. But it has now grown to like 900 people around the world who are interested in this stuff.
+
+We’ve standardized this stuff, we’re on version seven of it, we’re running it up in the International Space Station. It’s intended to be available for the return to the moon and Artemis missions. I’m not going to see the end result of all this, but I’m going to see the first couple of chapters. And I’m very excited about that, because it’s not crazy to actually think about. Like all my other projects, it takes a long time. Patience and persistence!
+
+For something like this it must have been a real challenge, but also a very familiar one. In some ways building something like this is what you’ve been doing your whole career. This is just a different set of restraints and capabilities.
+
+You put your finger on it, exactly right. This is in a different parametric space than the one that works for TCP/IP. And we’re still bumping into some really interesting problems, especially where you have TCP/IP networks running on the moon, for example, locally and interconnecting with other internets on other planets, going through the interplanetary protocol. What does that look like? You know, which IP addresses should be used? We have to figure out, well, how the hell does the Domain Name System work in the context of internets that aren’t on the planet? And it’s really fun!

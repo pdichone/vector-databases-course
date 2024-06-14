@@ -1,0 +1,17 @@
+As brands incorporate generative AI into their creative workflows to generate new content associated with the company, they need to tread carefully to be sure that the new material adheres to the company’s style and brand guidelines.
+
+Nova is an early-stage startup building a suite of generative AI tools designed to protect brand integrity, and today, the company is announcing two new products to help brands police AI-generated content: BrandGuard and BrandGPT.
+
+With BrandGuard, you ingest your company’s brand guidelines and style guide, and with a series of models Nova has created, it can check the content against those rules to make sure it’s in compliance, while BrandGPT lets you ask questions about the brand’s content rules in ChatGPT style.
+
+Rob May, founder and CEO at the company, who previously founded Backupify, a cloud backup startup that was acquired by Datto back in 2014, recognized that companies wanted to start taking advantage of generative AI technology to create content faster, but they still worried about maintaining brand integrity, so he came up with the idea of building a guard rail system to protect the brand from generative AI mishaps.
+
+“We heard from multiple CMOs who were worried about ‘how do I know this AI-generated content is on brand?’ So we built this architecture that we’re launching called BrandGuard, which is a really interesting series of models, along with BrandGPT, which acts as an interface on top of the models,” May told TechCrunch.
+
+BrandGuard is like the back end for this brand protection system. Nova built five models that look for things that might seem out of whack. They run checks for brand safety, quality checking, whether it’s on brand, whether it adheres to style and whether it’s on campaign. Then it assigns each piece with a content score, and each company can decide what the threshold is for calling in a human to check the content before publishing.
+
+“When you have generative AI creating stuff, you can now score it on a continuum. And then you can set thresholds, and if something’s below, say 85% on brand, you can have the system flag it so that a human can take a look at it,” he said. Companies can decide whatever threshold they’re comfortable with.
+
+BrandGPT is designed for working with third parties like an agency or a contractor, who can ask questions about the company’s brand guidelines to make sure they are complying with them, May said. “We’re launching BrandGPT, which is meant to be the interface to all this brand-related security stuff that we’re doing, and as people interact with brands, they can access the style guides and better understand the brand, whether they’re a part of the company or not.
+
+These two products are available in public beta starting today. The company launched last year and has raised $2.4 million from Bee Partners, Fyrfly Ventures and Argon Ventures.

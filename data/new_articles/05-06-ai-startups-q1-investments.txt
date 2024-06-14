@@ -1,0 +1,13 @@
+The best way to avoid a down round is to found an AI startup
+
+As we see unicorns slash staff and the prevalence of down rounds spike, it may seem that the startup ecosystem is chock-full of bad news and little else. That’s not precisely the case.
+
+While AI, and in particular the generative AI subcategory, are as hot as the sun, not all venture attention is going to the handful of names that you already know. Sure, OpenAI is able to land nine and 10-figure rounds from a murderer’s row of tech investors and mega-cap corporations. And rising companies like Hugging Face and Anthropic cannot stay out of the news, proving that smaller AI-focused startups are doing more than well.
+
+In fact, new data from Carta, which provides cap table management and other services, indicates that AI-focused startups are outperforming their larger peer group at both the seed and Series A stage.
+
+The dataset, which notes that AI-centered startups are raising more and at higher valuations than other startups, indicates that perhaps the best way to avoid a down round today is to build in the artificial intelligence space.
+
+What the data says
+
+Per Carta data relating to the first quarter of the year, seed funding to non-AI startups in the U.S. market that use its services dipped from $1.64 billion to $1.08 billion, or a decline of around 34%. That result is directionally aligned with other data that we’ve seen regarding Q1 2023 venture capital totals; the data points down.

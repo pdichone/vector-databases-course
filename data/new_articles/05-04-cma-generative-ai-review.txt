@@ -1,0 +1,49 @@
+Well that was fast. The U.K.’s competition watchdog has announced an initial review of “AI foundational models”, such as the large language models (LLMs) which underpin OpenAI’s ChatGPT and Microsoft’s New Bing. Generative AI models which power AI art platforms such as OpenAI’s DALL-E or Midjourney will also likely fall in scope.
+
+The Competition and Markets Authority (CMA) said its review will look at competition and consumer protection considerations in the development and use of AI foundational models — with the aim of understanding “how foundation models are developing and producing an assessment of the conditions and principles that will best guide the development of foundation models and their use in the future”.
+
+It’s proposing to publish the review in “early September”, with a deadline of June 2 for interested stakeholders to submit responses to inform its work.
+
+“Foundation models, which include large language models and generative artificial intelligence (AI), that have emerged over the past five years, have the potential to transform much of what people and businesses do. To ensure that innovation in AI continues in a way that benefits consumers, businesses and the UK economy, the government has asked regulators, including the [CMA], to think about how the innovative development and deployment of AI can be supported against five overarching principles: safety, security and robustness; appropriate transparency and explainability; fairness; accountability and governance; and contestability and redress,” the CMA wrote in a press release.”
+
+Stanford University’s Human-Centered Artificial Intelligence Center’s Center for Research on Foundation Models is credited with coining the term “foundational models”, back in 2021, to refer to AI systems that focus on training one model on a huge amount of data and adapting it to many applications.
+
+“The development of AI touches upon a number of important issues, including safety, security, copyright, privacy, and human rights, as well as the ways markets work. Many of these issues are being considered by government or other regulators, so this initial review will focus on the questions the CMA is best placed to address — what are the likely implications of the development of AI foundation models for competition and consumer protection?” the CMA added.
+
+In a statement, its CEO, Sarah Cardell, also said:
+
+AI has burst into the public consciousness over the past few months but has been on our radar for some time. It’s a technology developing at speed and has the potential to transform the way businesses compete as well as drive substantial economic growth. It’s crucial that the potential benefits of this transformative technology are readily accessible to UK businesses and consumers while people remain protected from issues like false or misleading information. Our goal is to help this new, rapidly scaling technology develop in ways that ensure open, competitive markets and effective consumer protection.
+
+Specifically, the U.K. competition regulator said its initial review of AI foundational models will:
+
+examine how the competitive markets for foundation models and their use could evolve
+
+explore what opportunities and risks these scenarios could bring for competition and consumer protection
+
+produce guiding principles to support competition and protect consumers as AI foundation models develop
+
+While it may seen early for the antitrust regulator to conduct a review of such a fast-moving emerging technology the CMA is acting on government instruction.
+
+An AI white paper published in March signalled ministers’ preference to avoid setting any bespoke rules (or oversight bodies) to govern uses of artificial intelligence at this stage. However ministers said existing U.K. regulators — including the CMA, which was directly name-checked — would be expected to issue guidance to encourage safe, fair and accountable uses of AI.
+
+The CMA says its initial review of foundational AI models is in line with instructions in the white paper, where the government talked about existing regulators conducting “detailed risk analysis” in order to be in a position to carry out potential enforcements, i.e. on dangerous, unfair and unaccountable applications of AI, using their existing powers.
+
+The regulator also points to its core mission — to support open, competitive markets — as another reason for taking a look at generative AI now.
+
+Notably, the competition watchdog is set to get additional powers to regulate Big Tech in the coming years, under plans taken off the back-burner by prime minister Rishi Sunak’s government last month, when ministers said it would move forward with a long-trailed (but much delayed) ex ante reform aimed at digital giants’ market power.
+
+The expectation is that the CMA’s Digital Markets Unit, up and running since 2021 in shadow form, will (finally) gain legislative powers in the coming years to apply pro-active “pro-competition” rules which are tailored to platforms that are deemed to have “strategic market status” (SMS). So we can speculate that providers of powerful foundational AI models may, down the line, be judged to have SMS — meaning they could expect to face bespoke rules on how they must operate vis-a-vis rivals and consumers in the U.K. market.
+
+The U.K.’s data protection watchdog, the ICO, also has its eye on generative AI. It’s another existing oversight body which the government has tasked with paying special mind to AI under its plan for context-specific guidance to steer development of the tech through the application of existing laws.
+
+In a blog post last month, Stephen Almond, the ICO’s executive director of regulatory risk, offered some tips and a little warning for developers of generative AI when it comes to compliance with U.K. data protection rules. “Organisations developing or using generative AI should be considering their data protection obligations from the outset, taking a data protection by design and by default approach,” he suggested. “This isn’t optional — if you’re processing personal data, it’s the law.”
+
+Over the English Channel in the European Union, meanwhile, lawmakers are in the process of deciding a fixed set of rules that are likely to apply to generative AI.
+
+Negotiations toward a final text for the EU’s incoming AI rulebook are ongoing — but currently there’s a focus on how to regulate foundational models via amendments to the risk-based framework for regulating uses of AI the bloc published in draft over two years ago.
+
+It remains to be seen where the EU’s co-legislators will end up on what’s sometimes also referred to as general purpose AI. But, as we reported recently, parliamentarians are pushing for a layered approach to tackle safety issues with foundational models; the complexity of responsibilities across AI supply chains; and to address specific content concerns (like copyright) which are associated with generative AI.
+
+Add to that, EU data protection law already applies to AI, of course. And privacy-focused investigations of models like ChatGPT are underway in the bloc — including in Italy where an intervention by the local watchdog led to OpenAI rushing out a series of privacy disclosures and controls last month.
+
+The European Data Protection Board also recently set up a task force to support coordination between different data protection authorities on investigations of the AI chatbot. Others investigating ChatGPT include Spain’s privacy watchdog.

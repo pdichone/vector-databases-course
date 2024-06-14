@@ -1,0 +1,91 @@
+Microsoft doubles down on AI with new Bing features The company's betting the farm on generative AI
+
+Microsoft is embarking on the next phase of Bing’s expansion. And — no surprise — it heavily revolves around AI.
+
+At a preview event this week in New York City, Microsoft execs including Yusuf Mehdi, the CVP and consumer chief marketing officer, gave members of the press, including this reporter, a look at the range of features heading to Bing over the next few days, weeks and months.
+
+They don’t so much reinvent the wheel as they build on what Microsoft has injected into the Bing experience over the past three months or so. Since launching Bing Chat, its AI-powered chatbot powered by OpenAI’s GPT-4 and DALL-E 2 models, Microsoft says that visitors to Bing — which has grown to exceed 100 million daily active users — have engaged in over half a billion chats and created more than 200 million images.
+
+Looking ahead, Bing will become more visual, thanks to more image- and graphic-centric answers in Bing Chat. It’ll also become more personalized, with capabilities that’ll allow users to export their Bing Chat histories and draw in content from third-party plugins (more on those later). And it’ll embrace multimodality, at least in the sense that Bing Chat will be able to answer questions within the context of images.
+
+“I think it’s safe to say that we’re underway with the transformation of search,” Mehdi said in prepared remarks. “In our minds, we think that today will be the start of the next generation of this ‘search mission.'”
+
+Open, and visual
+
+As of today, the new Bing — the one with Bing Chat — is now available waitlist-free. Anyone can try it out by signing in with a Microsoft Account.
+
+It’s more or less the experience that launched several months ago. But as alluded to earlier, Bing Chat will soon respond with images — at least where it makes sense. Answers to questions (e.g. “Where is Machu Picchu?”) will be accompanied by relevant images if any exist, much like the standard Bing search flow but condensed into a card-like interface.
+
+In a demo at the event, a spokesperson typed the question “Does the saguaro cactus grow flowers?” and Bing Chat pulled up a paragraph-long response alongside an image of the cactus in question. For me, it evoked the “knowledge panels” in Google Search.
+
+Microsoft isn’t saying which categories of content, exactly, might trigger an image. But it does have filtering in place to prevent explicit images from appearing — or so it claims.
+
+Sarah Bird, the head of responsible AI at Microsoft, told me that Bing Chat benefits from the filtering and moderation already in place with Bing search. Beyond this, Bing Chat uses a combination of “toxicity classifiers,” or AI models trained to detect potentially harmful prompts, and blacklists to keep the chat relatively clean.
+
+Those measures didn’t prevent Bing Chat from going off the rails when it first rolled out in preview in early February, it’s worth noting. Our coverage found the chatbot spouting vaccine misinformation and writing a hateful screed from the perspective of Adolf Hitler. Other reporters got it to make threats, claim multiple identities and even shame them for admonishing it.
+
+In another knock against Microsoft, the company just a few months ago laid off the ethics and society team within its larger AI organization. The move left Microsoft without a dedicated team to ensure its AI principles are closely tied to product design.
+
+Bird, though, asserts that meaningful progress has been made and that these sorts of AI issues aren’t solved overnight — public though Bing Chat may be. Among other measures, a team of human moderators is in place to watch for abuse, she said, such as users attempting to use Bing Chat to generate phishing emails.
+
+But — as members of the press weren’t given the chance to interact with the latest version of Bing beyond curated demos — I can’t say to what extent all that’s made a difference. It’ll doubtless become clear once more folks get their hands on it.
+
+One aspect of Bing Chat that is improving is the transparency around its responses — specifically responses of a fact-based nature. Soon, when asked to summarize a document or about the contents a document (e.g. “what does this page say about the Brooklyn Bridge?”), whether a 20-page PDF or a Wikipedia article, Bing Chat will include citations indicating from where in the text the information came from. Clicking on them will highlight the corresponding passage.
+
+Productivity emergent
+
+In another new feature on the visual front, Bing Chat will be able to create charts and graphs when fed the right prompt and data. Previously, asking something like “Which are the most populous cities in Brazil?” would yield a basic list of results. But in a near-future preview, Bing Chat will present those results visually and in the chart type of a user’s choosing.
+
+This seemingly represents a step for Bing toward a full-blown productivity platform, particularly when paired with the enhanced text-to-image generation capabilities coming down the pipeline.
+
+In the coming weeks, Bing Image Creator — Microsoft’s tool that can generate images from text prompts, powered by DALL-E 2 — will understand more languages aside from English (over 100 total). As with English, users will be able to refine the images they generate with follow-up prompts (e.g. “Make an image of a bunny rabbit,” followed by “now make the fur pink”).
+
+Generative art AI has been in the headlines a lot, lately — and not for the most optimistic of reasons necessarily.
+
+Plaintiffs have brought several lawsuits against OpenAI and its rival vendors, alleging that copyrighted data — mostly art — was used without their permission to train generative models like DALL-E 2. Generative models “learn” to create art and more by “training” on sample images and text, usually scraped indiscriminately from the public web.
+
+I asked Bird about whether Microsoft is exploring ways to compensate creators whose work was swept up in training data, even if the company’s official position is that it’s a matter of fair use. Several platforms launching generative AI tools, including Shutterstock, have kick-started creators funds along these lines. Others, like Spawning, are creating mechanisms to let artists opt out of AI model training altogether.
+
+Bird implied that these issues will eventually have to be confronted — and that content creators deserve some form of recompense. But she wasn’t willing to commit to anything concrete this week.
+
+Multimodal search
+
+Elsewhere on the image front, Bing Chat is gaining the ability to understand images as well as text. Users will be able to upload images and search the web for related content, for example copying a link to an image of a crocheted octopus and asking Bing Chat the question “how do I make that?” to get step-by-step instructions.
+
+Multimodality powers the new page context function in the Edge app for mobile, as well. Users will be able to ask questions in Bing Chat related to the mobile page they’re viewing.
+
+Microsoft wouldn’t say either way, but it seems likely that these new multimodal abilities stem from GPT-4, which can understand images in addition to text. When OpenAI announced GPT-4, it didn’t make the model’s image understanding capabilities available to all customers — and still hasn’t. I’d wager that Microsoft, though, being a major investor in and close collaborator with OpenAI, has some sort of privileged access.
+
+Any image upload tool can be abused, of course, which is why Microsoft is employing automated filtering and hashing to block illicit uploads, according to Bird. The jury’s out on how well these work, though — we weren’t given the chance to test image uploads ourselves.
+
+New chat features
+
+Multimodality and new visual features aren’t all that’s coming to Bing Chat.
+
+Soon, Bing Chat will store users’ chat histories, letting them pick up where they left off and return to previous chats when they wish. It’s an experience akin to the chat history feature OpenAI recently brought to ChatGPT, showing a list of chats and the bot’s responses to each of those chats.
+
+The specifics of the chat history feature have yet to be ironed out, like how long chats will be stored, exactly. But users will be able to delete their history at any time regardless, Microsoft says — addressing the criticisms several European Union governments had against ChatGPT.
+
+Bing Chat will also gain export and share functionalities, letting users share conversations on social media or to a Word document. Dena Saunders, a partner GM in Microsoft’s web experiences team, told TechCrunch that a more robust copy-and-paste system is in the works — but not in preview just yet — for graphs and images created through Bing Chat.
+
+Perhaps the most transformative addition to Bing Chat, though, is plugins. From partners like OpenTable and Wolfram Alpha, plugins greatly extend what Bing Chat can do, for example helping users book a reservation or create visualizations and get answers to challenging science and math questions.
+
+Like chat history, the not-yet-live plugins functionality is in the very preliminary stages. There’s no plugins marketplace to speak of; plugins can be toggled on or off from the Bing Chat web interface.
+
+Saunders hinted, but wouldn’t confirm, that the Bing Chat plugins scheme was associated with — or perhaps identical to — OpenAI’s recently introduced plugins for ChatGPT. That’d certainly make sense, given the similarities between the two.
+
+Edge, refreshed
+
+Bing Chat is available through Edge as well as the web, of course. And Edge is getting a fresh coat of paint alongside Bing Chat.
+
+First previewed in February, the new and improved Edge features rounded corners in line with Microsoft’s Windows 11 design philosophy. Elements in the browser are now more “containerized,” as one Microsoft spokesperson put it, and there’s subtle tweaks throughout, like the Microsoft Account image moving left-of-center.
+
+In Compose, Edge’s Bing Chat-powered tool that can write emails and more given a basic prompt (e.g. “write an invitation to my dog’s birthday party”), a new option lets users adjust the length, phrasing and tone of the generated text to nearly anything they’d like. Type in the desired tone, and Bing Chat will write a message to match — Bird says filters are in place to prevent the use of clearly problematic tones, like “hateful” or “racist.”
+
+Far more intriguing than Compose, though — at least to me — are actions in Edge, which translate certain Bing Chat prompts into automations.
+
+Typing a command like “bring my passwords from another browser” in Bing Chat in the Edge sidebar opens Edge’s browsing data settings page, while the prompt “play ‘The Devil Wears Prada'” pulls up a list of streaming options including Vudu and (predictably) the Microsoft Store. There’s even an action that automatically organizes — and color-coordinates — browsing tabs.
+
+Actions are in a primitive stage at present. But it’s clear where Microsoft’s going, here. One imagines actions eventually expanding beyond Edge to reach other Microsoft products, like Office 365, and perhaps one day the whole Windows desktop.
+
+Saunders wouldn’t confirm or deny that this is the endgame. “Stay tuned for Microsoft Build,” she told me, referring to Microsoft’s upcoming developer conference. We shall.

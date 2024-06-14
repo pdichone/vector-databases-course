@@ -1,0 +1,241 @@
+ChatGPT: Everything you need to know about the AI-powered chatbot
+
+ChatGPT, OpenAI’s text-generating AI chatbot, has taken the world by storm. It’s able to write essays, code and more given short text prompts, hyper-charging productivity. But it also has a more…nefarious side.
+
+In any case, AI tools are not going away — and indeed has expanded dramatically since its launch just a few months ago. Major brands are experimenting with it, using the AI to generate ad and marketing copy, for example.
+
+And OpenAI is heavily investing in it. ChatGPT was recently super-charged by GPT-4, the latest language-writing model from OpenAI’s labs. Paying ChatGPT users have access to GPT-4, which can write more naturally and fluently than the model that previously powered ChatGPT. In addition to GPT-4, OpenAI recently connected ChatGPT to the internet with plugins available in alpha to users and developers on the waitlist.
+
+Here’s a timeline of ChatGPT product updates and releases, starting with the latest, to be updated regularly. We also answer the most common FAQs (see below).
+
+Timeline of the most recent ChatGPT updates
+
+May 3, 2023
+
+Meta said in a report on May 3 that malware posing as ChatGPT was on the rise across its platforms.The company said that since March 2023, its security teams have uncovered 10 malware families using ChatGPT (and similar themes) to deliver malicious software to users’ devices.
+
+“In one case, we’ve seen threat actors create malicious browser extensions available in official web stores that claim to offer ChatGPT-based tools,” said Meta security engineers Duc H. Nguyen and Ryan Victory in a blog post. “They would then promote these malicious extensions on social media and through sponsored search results to trick people into downloading malware.”
+
+April 28, 2023
+
+VC firms including Sequoia Capital, Andreessen Horowitz, Thrive and K2 Global are picking up new shares, according to documents seen by TechCrunch. A source tells us Founders Fund is also investing. Altogether the VCs have put in just over $300 million at a valuation of $27 billion to $29 billion. This is separate to a big investment from Microsoft announced earlier this year, a person familiar with the development told TechCrunch, which closed in January. The size of Microsoft’s investment is believed to be around $10 billion, a figure we confirmed with our source.
+
+April 25, 2023
+
+Called ChatGPT Business, OpenAI describes the forthcoming offering as “for professionals who need more control over their data as well as enterprises seeking to manage their end users.”
+
+“ChatGPT Business will follow our API’s data usage policies, which means that end users’ data won’t be used to train our models by default,” OpenAI wrote in a blog post. “We plan to make ChatGPT Business available in the coming months.”
+
+April 24, 2023
+
+OpenAI applied for a trademark for “GPT,” which stands for “Generative Pre-trained Transformer,” last December. Last month, the company petitioned the USPTO to speed up the process, citing the “myriad infringements and counterfeit apps” beginning to spring into existence.
+
+Unfortunately for OpenAI, its petition was dismissed last week. According to the agency, OpenAI’s attorneys neglected to pay an associated fee as well as provide “appropriate documentary evidence supporting the justification of special action.”
+
+That means a decision could take up to five more months.
+
+April 22, 2023
+
+Auto-GPT is an open source app created by game developer Toran Bruce Richards that uses OpenAI’s latest text-generating models, GPT-3.5 and GPT-4, to interact with software and services online, allowing it to “autonomously” perform tasks.
+
+Depending on what objective the tool’s provided, Auto-GPT can behave in very… unexpected ways. One Reddit user claims that, given a budget of $100 to spend within a server instance, Auto-GPT made a wiki page on cats, exploited a flaw in the instance to gain admin-level access and took over the Python environment in which it was running — and then “killed” itself.
+
+April 18, 2023
+
+FTC chair Lina Khan and fellow commissioners warned House representatives of the potential for modern AI technologies, like ChatGPT, to be used to “turbocharge” fraud in a congressional hearing.
+
+“AI presents a whole set of opportunities, but also presents a whole set of risks,” Khan told the House representatives. “And I think we’ve already seen ways in which it could be used to turbocharge fraud and scams. We’ve been putting market participants on notice that instances in which AI tools are effectively being designed to deceive people can place them on the hook for FTC action,” she stated.
+
+April 17, 2023
+
+The company behind the popular iPhone customization app Brass, sticker maker StickerHub and others is out today with a new AI chat app called SuperChat, which allows iOS users to chat with virtual characters powered by OpenAI’s ChatGPT. However, what makes the app different from the default ChatGPT experience or the dozens of generic AI chat apps now available are the characters offered which you can use to engage with SuperChat’s AI features.
+
+April 12, 2023
+
+Italy’s data protection watchdog has laid out what OpenAI needs to do for it to lift an order against ChatGPT issued at the end of last month — when it said it suspected the AI chatbot service was in breach of the EU’s GSPR and ordered the U.S.-based company to stop processing locals’ data.
+
+The DPA has given OpenAI a deadline — of April 30 — to get the regulator’s compliance demands done. (The local radio, TV and internet awareness campaign has a slightly more generous timeline of May 15 to be actioned.)
+
+April 12, 2023
+
+A study co-authored by scientists at the Allen Institute for AI shows that assigning ChatGPT a “persona” — for example, “a bad person,” “a horrible person” or “a nasty person” — through the ChatGPT API increases its toxicity sixfold. Even more concerning, the co-authors found having ChatGPT pose as certain historical figures, gendered people and members of political parties also increased its toxicity — with journalists, men and Republicans in particular causing the machine learning model to say more offensive things than it normally would.
+
+The research was conducted using the latest version of ChatGPT, but not the model currently in preview based on OpenAI’s GPT-4.
+
+April 4, 2023
+
+YC Demo Day’s Winter 2023 batch features no fewer than four startups that claim to be building “ChatGPT for X.” They’re all chasing after a customer service software market that’ll be worth $58.1 billion by 2023, assuming the rather optimistic prediction from Acumen Research comes true.
+
+Here are the YC-backed startups that caught our eye:
+
+Yuma, whose customer demographic is primarily Shopify merchants, provides ChatGPT-like AI systems that integrate with help desk software, suggesting drafts of replies to customer tickets.
+
+Baselit, which uses one of OpenAI’s text-understanding models to allow businesses to embed chatbot-style analytics for their customers.
+
+Lasso customers send descriptions or videos of the processes they’d like to automate and the company combines ChatGPT-like interface with robotic process automation (RPA) and a Chrome extension to build out those automations.
+
+BerriAI, whose platform is designed to help developers spin up ChatGPT apps for their organization data through various data connectors.
+
+April 1, 2023
+
+OpenAI has started geoblocking access to its generative AI chatbot, ChatGPT, in Italy.
+
+Italy’s data protection authority has just put out a timely reminder that some countries do have laws that already apply to cutting edge AI: it has ordered OpenAI to stop processing people’s data locally with immediate effect. The Italian DPA said it’s concerned that the ChatGPT maker is breaching the European Union’s General Data Protection Regulation (GDPR), and is opening an investigation.
+
+March 29, 2023
+
+The letter’s signatories include Elon Musk, Steve Wozniak and Tristan Harris of the Center for Humane Technology, among others. The letter calls on “all AI labs to immediately pause for at least 6 months the training of AI systems more powerful than GPT-4.”
+
+The letter reads:
+
+Contemporary AI systems are now becoming human-competitive at general tasks,[3] and we must ask ourselves: Should we let machines flood our information channels with propaganda and untruth? Should we automate away all the jobs, including the fulfilling ones? Should we develop nonhuman minds that might eventually outnumber, outsmart, obsolete and replace us? Should we risk loss of control of our civilization? Such decisions must not be delegated to unelected tech leaders. Powerful AI systems should be developed only once we are confident that their effects will be positive and their risks will be manageable.
+
+March 23, 2023
+
+OpenAI launched plugins for ChatGPT, extending the bots functionality by granting it access to third-party knowledge sources and databases, including the web. Available in alpha to ChatGPT users and developers on the waitlist, OpenAI says that it’ll initially prioritize a small number of developers and subscribers to its premium ChatGPT Plus plan before rolling out larger-scale and API access.
+
+March 14, 2023
+
+GPT-4 is a powerful image- and text-understanding AI model from OpenAI. Released March 14, GPT-4 is available for paying ChatGPT Plus users and through a public API. Developers can sign up on a waitlist to access the API.
+
+March 9, 2023
+
+ChatGPT is generally available through the Azure OpenAI Service, Microsoft’s fully managed, corporate-focused offering. Customers, who must already be “Microsoft managed customers and partners,” can apply here for special access.
+
+March 1, 2023
+
+OpenAI makes another move toward monetization by launching a paid API for ChatGPT. Instacart, Snap (Snapchat’s parent company) and Quizlet are among its initial customers.
+
+February 7, 2023
+
+At a press event in Redmond, Washington, Microsoft announced its long-rumored integration of OpenAI’s GPT-4 model into Bing, providing a ChatGPT-like experience within the search engine. The announcement spurred a 10x increase in new downloads for Bing globally, indicating a sizable consumer demand for new AI experiences.
+
+Other companies beyond Microsoft joined in on the AI craze by implementing ChatGPT, including OkCupid, Kaito, Snapchat and Discord — putting the pressure on Big Tech’s AI initiatives, like Google.
+
+February 1, 2023
+
+After ChatGPT took the internet by storm, OpenAI launched a new pilot subscription plan for ChatGPT called ChatGPT Plus, aiming to monetize the technology starting at $20 per month.
+
+December 8, 2022
+
+A week after ChatGPT was released into the wild, two developers — Steven Tey and Dom Eccleston — made a Chrome extension called ShareGPT to make it easier to capture and share the AI’s answers with the world.
+
+November 30, 2022
+
+GPT-3.5 broke cover with ChatGPT, a fine-tuned version of GPT-3.5 that’s essentially a general-purpose chatbot. ChatGPT can engage with a range of topics, including programming, TV scripts and scientific concepts.
+
+Writers everywhere rolled their eyes at the new technology, much like artists did with OpenAI’s DALL-E model, but the latest chat-style iteration seemingly broadened its appeal and audience.
+
+FAQs:
+
+What is ChatGPT? How does it work?
+
+ChatGPT is a general-purpose chatbot that uses artificial intelligence to generate text after a user enters a prompt, developed by tech startup OpenAI. The chatbot uses GPT-4, a large language model that uses deep learning to produce human-like text.
+
+When did ChatGPT get released?
+
+November 30, 2022 is when ChatGPT was released for public use.
+
+What is the latest version of ChatGPT?
+
+Both the free version of ChatGPT and the paid ChatGPT Plus are regularly updated with new GPT models. The most recent model is GPT-4.
+
+Is ChatGPT free?
+
+There is a free version of ChatGPT that only requires a sign-in in addition to the paid version, ChatGPT Plus.
+
+Who uses ChatGPT?
+
+Anyone can use ChatGPT! More and more tech companies and search engines are utilizing the chatbot to automate text or quickly answer user questions/concerns.
+
+What is the difference between ChatGPT and a chatbot?
+
+A chatbot can be any software/system that holds dialogue with you/a person but doesn’t necessarily have to be AI-powered. For example, there are chatbots that are rules-based in the sense that they’ll give canned responses to questions.
+
+ChatGPT is AI-powered and utilizes LLM technology to generate text after a prompt.
+
+Can ChatGPT write essays?
+
+Yes.
+
+Can ChatGPT commit libel?
+
+Due to the nature of how these models work, they don’t know or care whether something is true, only that it looks true. That’s a problem when you’re using it to do your homework, sure, but when it accuses you of a crime you didn’t commit, that may well at this point be libel.
+
+We will see how handling troubling statements produced by ChatGPT will play out over the next few months as tech and legal experts attempt to tackle the fastest moving target in the industry.
+
+Does ChatGPT have an app?
+
+There is not an app available for iPhone or Android, but users have options to enable the chatbot on their mobile devices via their browser or a third-party app that uses ChatGPT’s public API.
+
+What is the ChatGPT character limit?
+
+It’s not documented anywhere that ChatGPT has a character limit. However, users have noted that there are some character limitations after around 500 words.
+
+Does ChatGPT have an API?
+
+Yes, it was released March 1, 2023.
+
+What are some sample everyday uses for ChatGPT?
+
+Everyday examples include programing, scripts, email replies, listicles, blog ideas, summarization, etc.
+
+What are some advanced uses for ChatGPT?
+
+Advanced use examples include debugging code, programming languages, scientific concepts, complex problem solving, etc.
+
+How good is ChatGPT at writing code?
+
+It depends on the nature of the program. While ChatGPT can write workable Python code, it can’t necessarily program an entire app’s worth of code. That’s because ChatGPT lacks context awareness — in other words, the generated code isn’t always appropriate for the specific context in which it’s being used.
+
+Can you save a ChatGPT chat?
+
+Yes. OpenAI allows users to save chats in the ChatGPT interface, stored in the sidebar of the screen. There are no built-in sharing features yet.
+
+Are there alternatives to ChatGPT?
+
+Yes. There are multiple AI-powered chatbot competitors such as Together, Google’s Bard and Anthropic’s Claude, and developers are creating open source alternatives. But the latter are harder — if not impossible — to run today.
+
+How does ChatGPT handle data privacy?
+
+OpenAI has said that individuals in “certain jurisdictions” (such as the EU) can object to the processing of their personal information by its AI models by filling out this form. This includes the ability to make requests for deletion of AI-generated references about you. Although OpenAI notes it may not grant every request since it must balance privacy requests against freedom of expression “in accordance with applicable laws”.
+
+The web form for making a deletion of data about you request is entitled “OpenAI Personal Data Removal Request”.
+
+In its privacy policy, the ChatGPT maker makes a passing acknowledgement of the objection requirements attached to relying on “legitimate interest” (LI), pointing users towards more information about requesting an opt out — when it writes: “See here for instructions on how you can opt out of our use of your information to train our models.”
+
+What controversies have surrounded ChatGPT?
+
+Recently, Discord announced that it had integrated OpenAI’s technology into its bot named Clyde where two users tricked Clyde into providing them with instructions for making the illegal drug methamphetamine (meth) and the incendiary mixture napalm.
+
+An Australian mayor has publicly announced he may sue OpenAI for defamation due to ChatGPT’s false claims that he had served time in prison for bribery. This would be the first defamation lawsuit against the text-generating service.
+
+CNET found itself in the midst of controversy after Futurism reported the publication was publishing articles under a mysterious byline completely generated by AI. The private equity company that owns CNET, Red Ventures, was accused of using ChatGPT for SEO farming, even if the information was incorrect.
+
+Several major school systems and colleges, including New York City Public Schools, have banned ChatGPT from their networks and devices. They claim that the AI impedes the learning process by promoting plagiarism and misinformation, a claim that not every educator agrees with.
+
+There have also been cases of ChatGPT accusing individuals of false crimes.
+
+Where can I find examples of ChatGPT prompts?
+
+Several marketplaces host and provide ChatGPT prompts, either for free or for a nominal fee. One is PromptBase. Another is ChatX. More launch every day.
+
+Can ChatGPT be detected?
+
+Poorly. Several tools claim to detect ChatGPT-generated text, but in our tests, they’re inconsistent at best.
+
+Are ChatGPT chats public?
+
+No. But OpenAI recently disclosed a bug, since fixed, that exposed the titles of some users’ conversations to other people on the service.
+
+Who owns the copyright on ChatGPT-created content or media?
+
+The user who requested the input from ChatGPT is the copyright owner.
+
+What lawsuits are there surrounding ChatGPT?
+
+None specifically targeting ChatGPT. But OpenAI is involved in at least one lawsuit that has implications for AI systems trained on publicly available data, which would touch on ChatGPT.
+
+Are there issues regarding plagiarism with ChatGPT?
+
+Yes. Text-generating AI models like ChatGPT have a tendency to regurgitate content from their training data.

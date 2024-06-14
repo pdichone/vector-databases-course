@@ -1,0 +1,35 @@
+In the must-watch final season of “Succession,” Kendall Roy enters a conference room with his siblings. As the scene opens, he takes a seat and declares: “Who will be the successor? Me.”
+
+Of course, that scene didn’t appear on HBO’s hit show, but it’s a good illustration of generative AI’s level of sophistication compared to the real thing. Yet as the Writers Guild of America goes on strike in pursuit of livable working conditions and better streaming residuals, the networks won’t budge on writers’ demands to regulate the use of AI in writers’ rooms.
+
+“Our proposal is that we not be required to adapt something that’s output by AI, and that the output of an AI not be considered writers’ work,” comedy writer Adam Conover told TechCrunch. “That doesn’t entirely exclude that technology from the production process, but it does mean that our working conditions wouldn’t be undermined by AI.”
+
+But the Alliance of Motion Picture and Television Producers (AMPTP) refused to engage with that proposal, instead offering a yearly meeting to discuss “advances in technology.”
+
+“When we first put [the proposal] in, we thought we were covering our bases — you know, some of our members are worried about this, the area is moving quickly, we should get ahead of it,” Conover said. “We didn’t think it’d be a contentious issue because the fact of the matter is, the current state of the text-generation technology is completely incapable of writing any work that could be used in a production.”
+
+The text-generating algorithms behind tools like ChatGPT are not built to entertain us. Instead, they analyze patterns in massive datasets to respond to requests by determining what is most likely the desired output. So, ChatGPT knows that “Succession” is about an aging media magnate’s children fighting for control of his company, but it is unlikely to come up with any dialogue more nuanced than, “Who will be the successor? Me.”
+
+According to Ben Zhao, a University of Chicago professor and faculty lead of art anti-mimicry tool Glaze, AI advancements can be used as an excuse for corporations to devalue human labor.
+
+“It’s to the advantage of the studios and bigger corporations to basically over-claim ChatGPT’s abilities, so they can, in negotiations at least, undermine and minimize the role of human creatives,” Zhao told TechCrunch. “I’m not sure how many people at these larger companies actually believe what they’re saying.”
+
+Conover emphasized that some parts of a writer’s job are less obvious than literal scriptwriting but equally difficult to replicate with AI.
+
+“It’s going and meeting with the set decoration department that says, ‘Hey, we can’t actually build this prop that you’re envisioning, could you do this instead?’ and then you talk to them and go back and rewrite,” he said. “This is a human enterprise that involves working with other people, and that simply cannot be done by an AI.”
+
+Comedian Yedoye Travis sees how AI could be useful in a writers’ room.
+
+“What we do in writers’ rooms is ultimately bouncing ideas around,” he told TechCrunch. “Even if it’s not good per se, an AI can throw together a script in however many minutes, compared to a week for human writers, and then it’s easier to edit than to write.”
+
+But even if there may be some promise for how humans can leverage this technology, he worries that studios see it merely as a way to demand more from writers over a shorter period of time.
+
+“It says to me that they’re only concerned with things being made,” Travis said. “They’re not concerned with people being paid for things being made.”
+
+Writers are also advocating to regulate the use of AI in entertainment because it remains a legal grey area.
+
+“It’s not clear that the work that it outputs is copyrightable, and a movie studio is not going to spend $50 to $100 million shooting a script that they don’t know that they own the copyright to,” Conover said. “So we figured this would be an easy give for [the AMPTP], but they completely stonewalled on it.”
+
+As the Writers Guild of America strikes for the first time since its historic 100-day action in 2007, Conover said he thinks the debate over AI technology is a “red herring.” With generative AI in such a rudimentary stage, writers are more immediately concerned with dismal streaming residuals and understaffed writing teams. Yet studios’ pushback on the union’s AI-related requests only further reinforces the core issue: The people who power Hollywood aren’t being paid their fair share.
+
+“I’m not worried about the technology,” Conover said. “I’m worried about the companies using technology, that is not in fact very good, to undermine our working conditions.”

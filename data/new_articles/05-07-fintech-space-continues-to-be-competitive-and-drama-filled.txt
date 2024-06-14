@@ -1,0 +1,77 @@
+Welcome to The Interchange! If you received this in your inbox, thank you for signing up and your vote of confidence. If you’re reading this as a post on our site, sign up here so you can receive it directly in the future. Every week, we’ll take a look at the hottest fintech news of the previous week. This will include everything from funding rounds to trends to an analysis of a particular space to hot takes on a particular company or phenomenon. There’s a lot of fintech news out there and it’s our job to stay on top of it — and make sense of it — so you can stay in the know. — Mary Ann and Christine
+
+Busy, busy, busy
+
+It was a busy week in startup and venture lands, and the fintech space was no exception.
+
+In the venture world, I reported on Peter Ackerson’s departure from Fin Capital earlier this year and the fact that he has since started a new venture firm called Audere Capital. The circumstances around his departure remain fuzzy, but one source speculated that tension arose between Ackerson and Fin founding partner Logan Allin over some of the goings-on at alternative financing startup Pipe last year. More details here.
+
+We also wrote about Tellus, a startup that raised $16 million in an Andreessen Horowitz–led seed round of funding last year that is now being scrutinized by the U.S. government. When I interviewed the company’s co-founder, Rocky Lee, last year, I admit I was a little bit skeptical of any company that would bet on people agreeing to high-interest mortgage rates to upgrade their homes (think 9%!) and using customer savings deposits to fund such loans. When I asked Lee if this was risky, he admitted it was but insisted that Tellus utilized “very strict underwriting criteria” and had not yet seen any defaults “because the majority of its borrowers go on to soon refinance their loans at more favorable terms.” Well, last week U.S. Senator Sherrod Brown, chairman of the U.S. Senate Committee on Banking, Housing, and Urban Affairs, wrote a letter to FDIC chairman Martin Gruenberg expressing concerns about Tellus’s claims. In that letter, Brown pressed the FDIC to review Tellus’s business practices “to ensure that customers are protected from financial fraud and abuse.” In a twist, I discovered that Lee was married to a16z general partner Connie Chan (not sure if he still is). Neither he nor the venture firm commented on the senator’s concerns but Tellus CEO/CTO Jeromee Johnson did provide me with a statement via email. Read more here.
+
+Infrastructure continues to be resilient, even in a downturn. This week alone, I wrote about two payments infrastructure companies making moves, and my colleague Ingrid Lunden wrote about Stripe’s latest customer win. For starters, I covered Finix officially becoming a payments processor — a natural evolution really for a company that has slowly been expanding its offerings. In case you forgot, Finix is a startup that Sequoia backtracked on investing in after Stripe (an existing portfolio company) expressed concerns about being too competitive. (Finix got to keep its $21 million, though!) Now that it directly connects to all major U.S. card networks — American Express, Discover, Mastercard and Visa — and no longer relies on a third-party processor, Finix says it’s able to offer businesses “instant onboarding, improved economics and opportunities for lowering interchange fees.” I talked with CEO and co-founder Richie Serna all about it, and why he thinks what Finix has built is different from what legacy players and Stripe have on the market. I also wrote about Liquido, a Mountain View, California–based startup aiming to be the “Stripe of Latin America,” and more. Index Ventures’ Mark Fiorentino led two funding rounds totaling $26 million into the company in 2021. Interestingly, prior to joining Index, Fiorentino helped build and lead business strategy and finance at Stripe from 2015 to 2019. And Ingrid wrote about Stripe landing Uber as a customer, which was a bit unexpected considering that rival Lyft has been a longtime marquee customer of the company.
+
+And, last but not least, corporate card and spend management startup Brex announced last week a global expansion of its Empower product into new markets so that companies that are its customers now “can spend globally and operate locally” in countries such as Brazil, Canada, Israel, Japan, Mexico, Singapore, South Africa, and the Philippines, as well as in 36 European countries. In an interview with TechCrunch, Brex co-founder and co-CEO Henrique Dubugras said that the company believes the move “will really open up TAM” for Brex since so many existing and prospective U.S. clients “have some sort of global operations.”
+
+“One of the big problems that companies have when they operate globally is that they actually need to open up an account in all these different countries where they might have employees. It becomes really complicated to set up all your financial systems on a country by country basis,” he added. “Now, if you use Brex, you can actually operate as if you were a local company with a local card.”
+
+In other words, companies using Brex that have employees who work in other countries are giving those workers the ability to use a corporate card freely in their home countries, while also giving the company the ability to pay the statements in local currency from the local bank.
+
+“It’s something that we’ve been trying to do for a while,” Dubugras added, noting that insurtech Lemonade is a customer. — Mary Ann
+
+Other weekly news
+
+Christine, Mary Ann and Natasha Mascarenhas teamed up to write about the collapse of First Republic Bank, speaking with tech founders and investors who had money in the bank about what happens next. We also spoke with an FRB competitor about what all of these startup bank collapses mean for business. More here.
+
+Reports Carly Page: “Hackers have published a trove of sensitive data stolen from payment software company AvidXchange after the company fell victim to ransomware for the second time this year. AvidXchange provides cloud-based software that helps organizations automate invoice processing and payment management processes. A ransomware group called RansomHouse claimed responsibility for the recent cyberattack on AvidXchange.” More here.
+
+Christine wrote about the launch of former Bolt CEO Ryan Breslow’s new company, Love, which is a wellness marketplace that features an initial 200 curated products, like supplements, health testing kits and essential oils, among such categories as reducing stress and gut health. All of the products on the site pass a set of compliance processes and reviews developed in partnership with clinical trials company Radicle Science, which Breslow said is unique to the company. More here.
+
+British neobank Revolut launched in Brazil, its first country in Latin America, offering customers a global bank account and crypto investments, Silicon Republic reported. The company already had a presence in the country after hiring Glauber Mota as the CEO of its Brazil business in March 2022. Alex Wilhelm and Anna Heim reported in April that Revolut “saw its valuation decline by some 46% in the eyes of one of its backers.” More here.
+
+Tage Kene-Okafor reported on Fingo, a YC-backed Kenyan fintech, which launched a neobank — the first of its kind in the East African country, according to the company — in collaboration with Pan-African financial institution Ecobank Kenya. “It’s taken a while for Fingo to get here since CEO Kiiru Muhoya and his co-founders James da Costa, Ian Njuguna and Gitari Tirima founded the Kenyan outfit in January 2021 to provide financial services that appeal to a fast-growing African youthful population that happens to be the youngest globally but the most financially marginalized. After a $200,000 pre-seed round, Fingo got into YC S21 and raised $4 million in seed funding toward the end of that year.” More here.
+
+Manish Singh reported that Paytm, India’s leading mobile payments firm, reported a 13.2% surge in revenue to $285.7 million in the quarter ending March and pared its loss by 57% to $20.5 million “in a sharp turnaround for the company that is increasingly trying to become profitable following a tremulous year and a half after its public debut.” More here.
+
+More headlines
+
+Apple and fintechs like Robinhood chase yield-hungry depositors as Fed rate hikes continue. Similarly, Arta Finance, a company providing access to alternative assets, debuted the Harvest Treasuries AI-Managed Portfolio, which offers a 4.62% APY (annual percentage yield), and Wealthfront’s cash account now offers 4.55% for all clients and 5.05% APY for clients who refer a friend.
+
+Fintech projected to become a $1.5 trillion industry by 2030, according to a new report from Boston Consulting Group and QED Investors
+
+Opendoor tech earnings beat by $0.77, revenue topped estimates
+
+Everee joins Visa’s Fintech Fast Track Program with launch of Everee Visa® pay card
+
+Funding and M&A
+
+Seen on TechCrunch
+
+African payment service provider Nomba raises $30M, backed by Base10 Partners and Shopify
+
+Bend is taking on Brex and Ramp with a green twist and a $2.5M seed round
+
+And elsewhere
+
+Digital wallet for insurance Marble bags $4.2M. Speaking about the raise to TechCrunch, CEO Stuart Winchester said via email, “American households are under a lot of financial strain right now, and insurance expenses are no small part of that. We will continue to put out features that make it easier to not only save money and maximize value, but also to reduce the mental load of managing multiple insurance policies. We expect to see the insurance industry in general adopt more of the consumer friendly features that we’ve helped pioneer.”
+
+Insurtech startup Novidea raises $50 million Series C
+
+Exclusive: Former Venmo COO raises $20M for Vera Equity
+
+Tarabut Gateway raises $32 million to expand Saudi open banking
+
+Music financing startup Duetti raises $32 million to buy old songs
+
+Billing platform Inbox Health raises $22.5M and more digital health fundings
+
+Google’s VC firm just led a $12 million Series A investment in Range, a startup that’s training AI to give financial advice
+
+OpenEnvoy raises $15 million to grow AP automation solution
+
+Miami-based startup Kiddie Kredit raises $1.4M with support from Dwyane Wade and Baron Davis
+
+Black-owned tech firm Greenwood acquires digital banking rival. TechCrunch covered Greenwood’s last raise in March of 2021 here.
+
+Join us at TechCrunch Disrupt 2023 in San Francisco this September as we explore the impact of fintech on our world today. New this year, we will have a whole day dedicated to all things fintech featuring some of today’s leading fintech figures. Save up to $800 when you buy your pass now through May 15, and save 15% on top of that with promo code INTERCHANGE. Learn more.
+
+We are done for this week and it’s a good thing because we are also TIRED! See you next week — same time, same place. Until then, take good care! xoxo, Mary Ann and Christine

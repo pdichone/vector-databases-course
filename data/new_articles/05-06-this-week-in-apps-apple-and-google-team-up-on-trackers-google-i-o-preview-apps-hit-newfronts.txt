@@ -1,0 +1,189 @@
+Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy.
+
+The app economy in 2023 hit a few snags, as consumer spending last year dropped for the first time by 2% to $167 billion, according to data.ai’s “State of Mobile” report. However, downloads are continuing to grow, up 11% year-over-year in 2022 to reach 255 billion. Consumers are also spending more time in mobile apps than ever before. On Android devices alone, hours spent in 2022 grew 9%, reaching 4.1 trillion.
+
+This Week in Apps offers a way to keep up with this fast-moving industry in one place with the latest from the world of apps, including news, updates, startup fundings, mergers and acquisitions, and much more.
+
+Do you want This Week in Apps in your inbox every Saturday? Sign up here: techcrunch.com/newsletters
+
+Top Stories
+
+Dorsey criticizes Twitter, Musk on the alternative social networks he’s backing
+
+As demand for Bluesky, the Jack Dorsey-backed decentralized Twitter rival grows, the former Twitter CEO took to the app to share his thoughts on Twitter’s future, Elon Musk and the decision to take the company private. As TechCrunch’s Darrell Etherington reported, Dorsey responded to questions posed to him from other users and reporters on Bluesky, including one where he was asked if Musk has proven to be the best possible steward for the social network.
+
+Dorsey said he had not:
+
+No. Nor do I think he acted right after realizing his timing was bad. Nor do I think the board should have forced the sale. It all went south. But it happened and all we can do now is build something to avoid that ever happening again. So I’m happy Jay and team and nostr devs exist and building it.
+
+However, the Twitter co-founder stressed that Twitter would have never survived as a public company and defended himself from an accusation that he was deflecting blame for Twitter’s current situation.
+
+Though Bluesky is having a moment, particularly as a haven for marginalized groups, sex workers and trans users, it’s not the only Twitter alternative Dorsey is now backing. In fact, he’s been more active in recent days on the social network nostr (which he also financially backed), where he’s also been critical of some of Musk’s recent decisions. For example, as The NYT reported, Dorsey posted last month “This is weak,” in response to Musk’s move to stop Twitter users from linking to Substack after it launched a Twitter-like service for its own community of writers and readers.
+
+Dorsey also touted his belief in these platforms during Block’s recent earnings call, suggesting on his nostr profile this may be the first time the network’s name had been mentioned during a public earnings event.
+
+“Open protocols represent another fork in the road moment for people and companies,” Dorsey told investors. “Bitcoin, nostr, Bluesky, web5 and others are all working to level the playing field for competition and give individuals and organizations entirely new capabilities,” he added.
+
+Over the past few weeks, Bluesky has been gaining traction, but the network has been difficult to access due to its invite-only nature. That’s turned Bluesky invites into hot commodities, where they’re even selling for hundreds of dollars on eBay, as most users have to wait to receive only one invite every two weeks.
+
+Bluesky leadership will also sometimes gift a user with a larger number of invites in order to have them invite members of a specific community. Developers who can demonstrate they’re building a Bluesky app may also request additional invites, we understand.
+
+The network has received outsized press coverage relative to its size — just 50,000+ users — possibly because of the heavy infusion of tech journalists on there and Dorsey’s name attached. But the reality is that Bluesky’s future remains uncertain. The company, for now, is able to build and grow thanks to the $13 million in initial funds it received from Twitter, where it was incubated under Dorsey’s leadership. It has since spun out into its own, independent company (a public benefit LLC). It’s unclear how Bluesky intends to maintain its operations in the long term, not to mention its freewheeling culture and accepting community. Networks can often be pleasant and welcoming when small, like Bluesky — or early Twitter, for that matter — but face challenges once they scale to millions of users.
+
+NewFronts round-up
+
+This week was IAB’s NewFronts, where digital media companies and social networks pitched their platforms to advertisers looking to reach online audiences. The event saw major brands introducing a range of new offerings, including both ad products and formats, as well as touting their latest features, in some cases, as Snap did with its My AI integration.
+
+Here’s what you may have missed from the app makers’ NewFronts this week:
+
+Snap said it’s beginning to test a feature that lets partners leverage its new My AI chatbot to place sponsored links in front of users. Snap also announced new ad slots, including the option to reserve the first video ad seen in Snapchat’s Friend Stories and the ability to advertise within its TikTok-like Spotlight feature.
+
+Snap also announced including the option to reserve the and the ability to YouTube introduced new ad opportunities for Shorts, including the expansion of Shorts into Video reach campaigns that leverage Google AI to serve the best combination of ads and improve reach on YouTube. Plus, YouTube Select is now coming to Shorts, allowing advertisers to place their ads alongside the most popular YouTube Shorts’ content, similar to TikTok Pulse. Another option, First Position on Shorts, will let advertisers be the first ad Shorts users see in their viewing session.
+
+including the that leverage Google AI to serve the best combination of ads and improve reach on YouTube. Plus, allowing advertisers to place their ads alongside the most popular YouTube Shorts’ content, similar to TikTok Pulse. Another option, will let advertisers be the first ad Shorts users see in their viewing session. TikTok announced partnerships with big-name publishers, including NBCU, Condé Nast, DotDash Meredith, BuzzFeed and others, in an effort to pull in more premium ad dollars. The new premium ad product, Pulse Premiere, would allow marketers, for the first time, to position their brand ads directly after TikTok’s publisher and media partners’ content in over a dozen categories, including lifestyle, sports, entertainment, education and more. Publisher partners would receive a rev share as a result.
+
+The would allow marketers, for the first time, to position their brand ads directly after TikTok’s publisher and media partners’ content in over a dozen categories, including lifestyle, sports, entertainment, education and more. Publisher partners would receive a rev share as a result. Meta announced AR would become available to Reels Ads and Facebook Stories. They had previously been available only to the Facebook Feed, Instagram Feed and Instagram Stories. It also announced features to make Reels Ads more interactive, including a t est of a larger “call to action” button with additional advertiser information on Facebook and Instagram Reels ads. Other updates included multi-destination product ads, the ability to pause a video ad to preview a link’s destination and support for Reels Ads campaigns with select third-party measurement firms .
+
+They had previously been available only to the Facebook Feed, Instagram Feed and Instagram Stories. It also announced features to make Reels Ads more interactive, including a t with additional advertiser information on Facebook and Instagram Reels ads. Other updates included the ability to and support for . NBCU will let Peacock users shop products that appear in its content through “Must ShopTV,” which puts a QR code on the screen when a shoppable product appears.
+
+Apple & Google team up on Bluetooth tracker safety
+
+After numerous cases of Bluetooth trackers like Apple’s AirTag being used for stalking or other criminal apps, Apple and Google this week released a joint announcement saying they will work together to lead an industry-wide initiative to draft a specification that would alert users in the case of unwanted tracking from Bluetooth devices. The companies said they’re seeking input from other industry participants and advocacy groups in the matter, and noted that other tracker makers like Samsung, Tile, Chipolo, eufy Security and Pebblebee have also expressed interest in the draft.
+
+The companies submitted a proposed specification as an Internet-Draft via a standards development organization, the Internet Engineering Task Force (IETF). Other interested parties are now being invited to review and comment over the next three months. After this time, Apple and Google will offer feedback and will release a production implementation of the specification by year’s end that will be supported in future versions of iOS and Android, they said.
+
+The spec would build on the AirTag protections Apple had already released but also, critically, would ensure that users would be able to combat unwanted tracking by offering tools across both iOS and Android platforms.
+
+Google’s participation could signal more than a desire to protect its users — it’s been rumored the company may also be developing an AirTag rival.
+
+Platforms
+
+Apple
+
+Google — I/O Preview
+
+Google I/O kicks off next week and we already know at least one of the announcements — because Google leaked it. The company plans to introduce its first foldable smartphone with the Pixel Fold. The device shares Pixel’s familiar camera bar and features an interface that showcases Material UI design. We expect to learn more at the event.
+
+In addition, Google I/O 2023 should bring a Pixel 7a , a budget device that could also help address Pixel demand in emerging markets, plus possibly a Pixel tablet, an AirTag rival, a Wear OS update, and a lot of new developer tools and features. We also expect to hear quite a bit about Google’s AI plans, with generative AI (like Bard) appearing across Google’s line of products.
+
+, a budget device that could also help address Pixel demand in emerging markets, plus possibly a Pixel tablet, an AirTag rival, a Wear OS update, and a lot of new developer tools and features. We also expect to hear quite a bit about Google’s AI plans, with generative AI (like Bard) appearing across Google’s line of products. To get ready for I/O, even if you’re attending virtually, Google offered a new planning guide and a playlist of developer content to help attendees prepare.
+
+to help attendees prepare. Checks, Google’s AI-powered data protection project, exited to Google from its in-house incubator Area 120. The tool uses AI to check mobile apps for compliance with various privacy rules and regulations.
+
+App Updates
+
+Social
+
+Social networking app IRL’s CEO Abraham Shafi stepped down following allegations he used bots to inflate the number of users IRL reported publicly and to its investors , The Information reported. A former employee had alleged he was fired after expressing concern over the use of bots. The SEC is now investigating if the company violated securities laws. IRL raised around $200 million from SoftBank Vision Fund, Founders Fund and others.
+
+, The Information reported. A former employee had alleged he was fired after expressing concern over the use of bots. The SEC is now investigating if the company violated securities laws. IRL raised around $200 million from SoftBank Vision Fund, Founders Fund and others. After laying off 50% of staff, declining audio social network Clubhouse says it’s building “Clubhouse 2.0,” but hasn’t shared exactly what that plan may involve. Last year, the company began shifting its focus away from public audio to private rooms but it’s not clear there’s much demand for audio social networking in the post-pandemic market.
+
+but hasn’t shared exactly what that plan may involve. Last year, the company began shifting its focus away from public audio to private rooms but it’s not clear there’s much demand for audio social networking in the post-pandemic market. Once-hot viral app Poparazzi shuts down and returns remaining funds to investors. The app had let friends tag others to build out their social profiles of real moments, not polished images, but had been on the decline, with only a few thousand MAUs down from a height of 4 million MAUs previously.
+
+A Twitter bug saw users able to regain their blue Verification checks just by editing their bio. Shortly afterward, the Twitter desktop website began randomly logging out users. Later in the week, the mobile website was also down.
+
+Shortly afterward, the Twitter desktop website began randomly logging out users. Later in the week, the mobile website was also down. As Bluesky gains attention, rival decentralized social platform Mastodon announced a new, simpler onboarding experience that provides new users with an account on mastodon.social by default , instead of requiring them to pick a server. This doesn’t eliminate server choice, it simply means that joining another server requires a few extra clicks.
+
+, instead of requiring them to pick a server. This doesn’t eliminate server choice, it simply means that joining another server requires a few extra clicks. Neighborhood social network Nextdoor added new features powered by generative AI, including an Assistant feature aimed at helping users write posts that are more likely to drive positive community engagement. The Assistant will offer writing suggestions that users can review and optionally adopt. The company says it will also use AI to better match content to users when providing recommendations.
+
+including an Assistant feature aimed at helping users write posts that are more likely to drive positive community engagement. The Assistant will offer writing suggestions that users can review and optionally adopt. The company says it will also use AI to better match content to users when providing recommendations. BeReal is testing another new feature in the U.K., “RealPeople,” that shows users a timeline of the “world’s most interesting people” — that is, athletes, artists, activists and other public figures. The company also recently began testing the option to post more often as usage has declined.
+
+and other public figures. The company also recently began testing the option to post more often as usage has declined. Meta introduced new discovery and personalization options for Facebook Reels. Users can now choose “Show More” or “Show Less” options to control what sort of Reels they want to see. Facebook will also explain why it’s showing you a Reel, like if a friend viewed it, and is adding Reels to the main navigation at the top of Facebook Watch.
+
+WordPress drops Twitter integration, says sharing to Instagram and Mastodon is coming instead. The Automattic-owned publishing platform said the Twitter connection on Jetpack and WordPress.com will cease to work, meaning users’ blog posts will no longer be auto-shared to Twitter as before. The company said Elon Musk’s decision to “dramatically change the terms and pricing” for Twitter’s API was to blame for this decision. The API now starts at $42,000/month for 50 million tweets. The move will likely hurt Twitter more than WordPress, as the latter powers over 40% of the global internet, including WordPress.com blogs.
+
+The Automattic-owned publishing platform said the Twitter connection on Jetpack and WordPress.com will cease to work, meaning users’ blog posts will no longer be auto-shared to Twitter as before. The company said Elon Musk’s decision to “dramatically change the terms and pricing” for Twitter’s API was to blame for this decision. The API now starts at $42,000/month for 50 million tweets. The move will likely hurt Twitter more than WordPress, as the latter powers over 40% of the global internet, including WordPress.com blogs. Mozilla announced it’s opening up its own Mastodon server — or “instance,” in Mastodon lingo — into private beta testing. The company had said last year it planned to create and begin testing a publicly accessible instance at mozilla.social. It explains its approach to Mastodon will involve high levels of moderation.
+
+The company had said last year it planned to create and begin testing a publicly accessible instance at mozilla.social. It explains its approach to Mastodon will involve high levels of moderation. Twitter announced it would make its API free for public service announcements after New York’s Metro Transit Service (MTS) abandoned the service and the National Weather Services (NWS) said it would no longer auto-post warnings.
+
+after New York’s Metro Transit Service (MTS) abandoned the service and the National Weather Services (NWS) said it would no longer auto-post warnings. TikTok’s U.S. head of trust and safety Eric Han is leaving the company on May 12 as lawmakers weigh a TikTok ban. Han had played a key role in TikTok’s strategy to avoid a U.S. ban.
+
+as lawmakers weigh a TikTok ban. Han had played a key role in TikTok’s strategy to avoid a U.S. ban. Discord is making all users change their usernames, the company announced this week. Originally, Discord users had been identified by a name and random number separated by a hash sign, but now it wants to adopt a simpler format so people can more easily share their usernames with others. The new plan will include a unique alphanumeric username with the @ symbol in front of it, plus a freely assignable display name that can be changed at any time.
+
+AI
+
+Slack introduced SlackGPT, its own generative AI built on Slack’s platform which developers can use to create AI-driven experiences.
+
+which developers can use to create AI-driven experiences. Microsoft launched its Bing chatbot to all users globally, meaning there’s no more waitlist to get started. It’s also adding more image- and graphic-centric answers in Bing Chat, including by creating graphs and charts and generating images from text prompts. It will also allow users to export their Bing Chat histories. And it will embrace multimodality, meaning it can understand queries with images and text combined. Bing now sees more than 100 million daily active users and says visitors have engaged in over half a billion chats.
+
+It’s also adding more image- and graphic-centric answers in Bing Chat, including by creating graphs and charts and generating images from text prompts. It will also allow users to export their Bing Chat histories. And it will embrace multimodality, meaning it can understand queries with images and text combined. Bing now sees more than 100 million daily active users and says visitors have engaged in over half a billion chats. Plexamp, the music player originally incubated by the Labs division of media company Plex, is tapping into ChatGPT with its latest update. The new feature called “Sonic Sage,” powered by OpenAI’s ChatGPT, will build unique music playlists by scanning users’ libraries and leveraging their TIDAL subscription.
+
+Media & Entertainment
+
+Fintech
+
+YC-backed Kenyan fintech Fingo launched its neobanking app, developed in collaboration with Pan-African financial institution Ecobank Kenya. The company raised $4 million in seed funding after its YC S21 participation. Fingo offers users a bank account, paired with free peer-to-peer transactions and access to savings, financial education and smart spending analytics.
+
+The company raised $4 million in seed funding after its YC S21 participation. Fingo offers users a bank account, paired with free peer-to-peer transactions and access to savings, financial education and smart spending analytics. The FDIC is looking into Tellus, an Andreessen Horowitz-backed fintech company that claims it can offer people higher yields on their savings balances by using that money to fund certain U.S. single-family-home loans. U.S. Senator Sherrod Brown, chairman of the Senate Banking, Housing, and Urban Affairs Committee, wrote a letter to FDIC Chairman Martin Gruenberg expressing concerns about Tellus, and asking the FDIC to review Tellus’s business practices which may put customers at risk.
+
+Messaging
+
+WhatsApp now lets users create single-vote polls and forward media with captions, Meta announced this week. Single-vote polls let users run a poll where people are only allowed to vote once, including multiple choice, as has been the default.
+
+Meta announced this week. Single-vote polls let users run a poll where people are only allowed to vote once, including multiple choice, as has been the default. Reddit’s latest update provides link previews for messaging apps. Now, when you share a Reddit link via a messaging app, it will include a visual preview of the content, the subreddit name, the total upvotes tally and the number of comments. The update also includes the ability to share directly to IG Stories and other tools for publishers.
+
+Travel & Transportation
+
+Following its acquisition by Via, Citymapper said it’s lowering the paywall for its premium features while also introducing a new subscription plan ($1.49/mo) purely for removing ads.
+
+while also introducing a new subscription plan ($1.49/mo) purely for removing ads. Uber reported a Q1 earnings beat with its revenue up 29% YoY to $8.82 billion, gross bookings up 19% YoY to $31.4 billion and adjusted EBITDA up 353% YoY to $761 million. It also reported a $157 million net loss.
+
+gross bookings up 19% YoY to $31.4 billion and adjusted EBITDA up 353% YoY to $761 million. It also reported a $157 million net loss. Uber Eats is also planning to offer support for Live Activities and Dynamic Island on iPhone and integrated with Alexa for order updates.
+
+for order updates. Lyft shared worrisome Q2 guidance sending its stock down after Q1 earnings where it had reported a 14% YoY increase in revenue to $1 billion and a net loss drop of 5% to $187.6 million. Ridership was up 9.8% YoY to 19.5 million.
+
+Gaming
+
+Snowman, the mobile game studio behind Alto’s Adventure and Alto’s Odyssey, launched its newest title, Laya’s Horizon, exclusively with Netflix. The wingsuit game sees players mastering the art of flying, diving off mountains, weaving across forests and gliding over rivers to unlock new abilities as they explore a vast and peaceful world.
+
+Cross-platform game engine Unity announced layoffs of 8% of its workforce, or around 600 jobs, after laying off 500+ in January and last June.
+
+after laying off 500+ in January and last June. Amazon announced that customers in the United States, Canada, Germany and the United Kingdom can now play Fortnite on their Fire TVs via its Amazon Luna cloud gaming service.
+
+Commerce & Food Delivery
+
+Amazon Inspire, the e-commerce giant’s in-app TikTok-like shopping feed has rolled out to all customers in the United States. The company had been experimenting since last year with the new feed, which features content creators by influencers.
+
+The company had been experimenting since last year with the new feed, which features content creators by influencers. DoorDash revenue was up 40% YoY in Q1, reaching $2.04 billion, beating estimates of $1.93 billion. Its net loss also declined 3% to $162 million and orders were up 27% to 512 million.
+
+Etc.
+
+Amazon rolled out a Matter update for Alexa that includes support for Thread, setup on iOS, and a new version of its Works with Alexa program.
+
+and a new version of its Works with Alexa program. Match Group posted a Q1 earnings miss with revenue down by 1% YoY to $787 million and paying users down 3% to 15.9 million. The company, however, said it’s “very possible” the recent Apple-Epic court decision could result in App Store fee relief.
+
+Medtech startup Healthy.io, which provides urine analysis through a mobile app, is laying off a third of its staff, or around 70 people. The company had just raised $50 million in Series D funding.
+
+The company had just raised $50 million in Series D funding. Airbnb announced Rooms, a feature that focuses on the ability to book single rooms averaging $67 per night as users complain about excessive fees, onerous checkout procedures and rising Airbnb prices.
+
+averaging $67 per night as users complain about excessive fees, onerous checkout procedures and rising Airbnb prices. Google’s smart home app, Google Home, added support for smart garage door openers.
+
+Security
+
+Google announced that passkeys are now rolling out to Google Account users globally. Passkey let users sign in to websites and apps using the same biometrics or screen-lock PIN they use to unlock their devices.
+
+Passkey let users sign in to websites and apps using the same biometrics or screen-lock PIN they use to unlock their devices. Google announced that in 2022, it prevented 1.43 million policy-violating apps from being published on Google Play “in part due to new and improved security features and policy enhancements.”
+
+Government, Policy and Lawsuits
+
+The EU’s Digital Markets Act (DMA) became applicable on May 2, but enforcement is not expected until spring 2024. The act focused on gatekeepers like Apple, Google, Meta and Microsoft. It limits how they can use third-party data, bans self-preferencing, introduces interoperability requirements, bans tracking users for targeted ads without consent and more. It also says app stores can’t require the use of their own payment services and permits app sideloading.
+
+Bipartisan U.S. lawmakers reintroduced the Kids Online Safety Act with updates aimed at fixing earlier issues. The bill says platforms have to take reasonable steps to stop the spread of posts that promote eating disorders, suicide, substance abuse and more and undergo independent analysis about their safety for minors. It now also includes protections for support services, like the National Suicide Hotline, substance abuse groups and LGBTQ+ youth centers. However, critics, including the ACLU, say the changes are not enough and they remain opposed to the increased surveillance of kids this bill would require and other matters.
+
+The bill says platforms have to take reasonable steps to stop the spread of posts that promote eating disorders, suicide, substance abuse and more and undergo independent analysis about their safety for minors. It now also includes protections for support services, like the National Suicide Hotline, substance abuse groups and LGBTQ+ youth centers. However, critics, including the ACLU, say the changes are not enough and they remain opposed to the increased surveillance of kids this bill would require and other matters. France’s competition watchdog announced interim measures against Meta, saying it suspects Meta of abusing its dominant position in the French market for ads on social media and across the broader (non-search-related) online ads market.
+
+saying it suspects Meta of abusing its dominant position in the French market for ads on social media and across the broader (non-search-related) online ads market. The U.S. Federal Trade Commission (FTC) says Meta has “repeatedly violated” privacy rules and proposed to tighten its 2020 privacy order against the company, which would completely bar it from monetizing data from anyone under 18 in any way, among other new restrictions. The FTC also accused Meta of COPPA, a children’s privacy law, by misrepresenting its Messenger Kids parental controls, which allowed group chats and group calls with unapproved contacts.
+
+Funding and M&A
+
+Amazon acquired a small audio-focused artificial intelligence firm called Snackable.AI in 2022, The Post reported. Deal terms weren’t disclosed but Mari Joller, the founder and CEO of Snackable, is now the artificial intelligence and machine learning product leader at Amazon.
+
+Downloads
+
+RTRO
+
+New social networking startup RTRO launched its app this week with the goal of connecting brands, creators and their fans and followers in a more positive environment focused on human connections and communities, not algorithm-driven content. To accomplish this, RTRO divides its social experience into two parts — on one side, you can keep up with friends or family in RTRO’s “circles.” On the other side, users can switch over to see content from creators and brands in their own space, dubbed RTRO TV.
+
+DistroKid
+
+Music distribution service DistroKid this week launched its first mobile app, initially only for iPhone. The new app lets artists upload new releases, receive instant payment alerts, access stats from Apple and Spotify, edit metadata and more from their phones. The company said the mobile app had been the number one request from DistroKid members.

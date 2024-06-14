@@ -1,0 +1,41 @@
+The legal spats between artists and the companies training AI on their artwork show no sign of abating.
+
+Within the span of a few months, several lawsuits have emerged over generative AI tech from companies including OpenAI and Stability AI, brought by plaintiffs who allege that copyrighted data — mostly art — was used without their permission to train the generative models. Generative AI models “learn” to create art, code and more by “training” on sample images and text, usually scraped indiscriminately from the web.
+
+In an effort to grant artists more control over how — and where — their art’s used, Jordan Meyer and Mathew Dryhurst co-founded the startup Spawning AI. Spawning created HaveIBeenTrained, a website that allows creators to opt out of the training dataset for one art-generating AI model, Stable Diffusion v3, due to be released in the coming months.
+
+As of March, artists had used HaveIBeenTrained to remove 80 million pieces of artwork from the Stable Diffusion training set. By late April, that figure had eclipsed 1 billion.
+
+As the demand for Spawning’s service grew, the company — which was entirely bootstrapped up until that point — sought an outside investment. And it got it. Spawning today announced that it raised $3 million in a seed round led by True Ventures with participation from the Seed Club Ventures, Abhay Parasnis, Charles Songhurst, Balaji Srinivisan, Jacob.eth and Noise DAO.
+
+Speaking to TechCrunch via email, Meyer said that the funding will allow Spawning to continue developing “IP standards for the AI era” and establish more robust opt-out and opt-in standards.
+
+“We are enthusiastic about the potential of AI tooling. We developed domain expertise in the field from being passionate about new opportunities AI provides to creators, but feel that consent is a fundamental layer to make these developments something everyone can feel good about,” Meyer said.
+
+Spawning’s metrics speak for themselves. Clearly, there’s a demand from artists for more say in how their art’s used (or scraped, as the case may be). But beyond partnerships with art platforms like Shutterstock and ArtStation, Spawning hasn’t managed to rally the industry around a common opt-out or provenance standard.
+
+Adobe, which recently announced generative AI tools, is pursuing its own opt-out mechanisms and tooling. So is DeviantArt, which in November launched a protection that relies on HTML tags to prohibit the software robots that crawl pages for images from downloading those images for training sets. OpenAI, the generative AI giant in the room, still doesn’t offer an opt-out tool — nor has it announced plans to anytime soon.
+
+Spawning has also come under criticism for the opaqueness — and vagueness — of its opt-out process. As Ars Technica noted in a recent piece, the opt-out process doesn’t appear to fit the definition of consent for personal data use in Europe’s General Data Protection Regulation, which states that consent must be actively given, not assumed by default. Also unclear is how Spawning intends to legally verify the identities of artists who make opt-out requests — or indeed, if it intends to attempt this at all.
+
+Spawning’s solution is multipronged. First, it plans to make it easier for AI model trainers to honor opt-out requests and streamline the process for creators. Then, Spawning will offer more services to organizations seeking to protect the work of their artists, Meyer says.
+
+“We want to build the consent layer for AI, which we feel will be a fundamentally helpful piece of infrastructure moving forward,” he added. “We plan to grow Spawning to address the many different domains touched by the AI economy, as each domain has their own particular needs.”
+
+In a first step toward this ambitious vision, Spawning in March enabled “domain opt-outs,” allowing creators and content partners to quickly opt-out content from whole websites. Spawning says that 30,000 domains to date have been registered in the system.
+
+April will mark the release of an API and open source Python package that’ll greatly expand the breadth of content that Spawning touches. Previously, opt-out requests through Spawning only applied to the LAION-5B dataset — the dataset used to train Stable Diffusion. As of April, any website, app or service will be able to use Spawning’s API to automatically comply with opt-outs not just for image data, but for text, audio, videos and more.
+
+Meyer says that Spawning will aggregate every new opt-out method (e.g. Adobe’s and DeviantArt’s) into its Python package for model trainers, with the goal of cutting down on the number of accounts model creators have to manage to comply with opt-out requests.
+
+To boost visibility, Spawning is partnering with Hugging Face, one of the larger platforms for hosting and running AI models, to add a new info box on Hugging Face that’ll alert users to the proportion of “opted-out” data within text-to-image datasets. The box will also link to a Spawning API sign-up page so that model trainers can remove opted-out images at training time.
+
+“We feel that once companies and developers know that the option to honor creator wishes is available, there is little reason not to honor them,” Meyer said. “We are excited about the future of generative AI, but creators and organizations alike need standards in place to have their data work in their favor.”
+
+Looking ahead, Spawning intends to release an “exact-duplicate” detection feature to match opted-out images with copies that the platform finds across the web, followed by a “near-duplicate” detection feature to notify artists when Spawning finds likely copies of their work that’ve been cropped, compressed or otherwise slightly modified.
+
+Beyond that, there’s plans for a Chrome extension to let creators pre-emptively opt out of their work posted anywhere on the web and a caption search on the HaveIBeenTrained website to directly search image descriptions. The site’s current search tool uses only approximate matches between text and images as well as URL searches to find content hosted on specific websites.
+
+Spawning — now beholden to investors — plans to make money by building services on top of its content infrastructure, although Meyer wouldn’t divulge much. How that’ll sit with content creators remains to be seen.
+
+“We’ve spoken to quite a few organizations, with many conversations being too premature to announce, and think that our funding announcement and increased visibility will go some way to offer assurances that what we are building is a robust and dependable standard to work with,” Meyer said. “After we complete these features, we’ll begin building infrastructure to support more datasets — including music, video and text.”

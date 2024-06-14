@@ -1,0 +1,41 @@
+Google I/O 2023 is next week; here’s what we’re expecting A whole bunch of new hardware, coupled with a lot of AI and the best look yet at Android 14
+
+Google’s annual developer conference, Google I/O, returns to Mountain View’s Shoreline Amphitheater next week, and for the first time in four years, we’ll be returning along with it. The kickoff keynote is always jammed-packed full of information, debuting all of the different software projects the company has been working on for the past year.
+
+Update: Google just went ahead and announced the Pixel Fold over on Twitter. The company gave a good look at the upcoming foldable smartphone from just about every angle. That means all three of the expected pieces of hardware – including the Pixel 7a and Pixel Tablet – have officially been announced.
+
+The event, which kicks off May 10 at 10 AM PT will be a big showcase for everything that’s on the way for Android 14. The company has, arguably, missed a step when it comes to the current generative AI land rush — hell, who could have predicted after all of these years that Bing would finally have a moment?
+
+CEO Sundar Pichai will no doubt be making the case that the company continues to lead the way in the world of artificial intelligence. There’s always been a fair bit of the stuff at the event largely focused on practical real-world applications like mobile imaging and dealing with customer service. This year, however, I’d say it’s safe to say the company is going to go bonkers with the stuff.
+
+Hardware, meanwhile, is always a bit of a crapshoot at developer conferences. But after an off-year for the industry at large, a deluge of rumors are aligning, pointing to what’s likely to be an unusually consumer electronics-focused keynote. Given the fact that the last bit is my focus at TechCrunch, I’m going to start the list there.
+
+The Pixel 7a is about as sure as bets get. Google has settled into a comfortable release cadence: releasing a flagship in the fall, followed by a budget device in the spring. The former is designed to be an ideal showcase for its latest mobile operating system and first-party silicon, while the latter makes some compromises for price, while maintaining as many of its predecessors as possible.
+
+How to show excitement without shouting? Asking for a friend Coming to @Flipkart on 11th May. pic.twitter.com/il6GUx3MmR — Google India (@GoogleIndia) May 2, 2023
+
+It’s a good system that works, and Google’s newly focused mobile hardware team has created some surprisingly good devices at extremely reasonable prices. Never one to be outdone by the deluge of rumors, the company went ahead and announced via Twitter its next device is due out on May 11 — the day after Google I/O and, perhaps not coincidentally, my birthday. It was Google India that specifically made the announcement — perhaps not surprising, as the company is likely to aggressively target the world’s number one smartphone market with the product. The image points to a very similar design as the 7 — not really a surprise as these things go. Though it does stop short of actually mentioning the name, as it’s done in the past.
+
+Basically expect the 7 with cheaper materials. Rumors point to a 6.1-inch device featuring a 90Hz refresh rate, coupled with a 64-megapixel rear camera. The 7’s Tensor G2 returns for a command performance, likely bringing with it many of the software features it enabled the first time around.
+
+We know for sure that a Pixel Tablet is coming…at some point. Google confirmed the device’s existence at last year’s event, providing a broad 2023 release date, along with a render alongside the rest of the current Pixel lineup. Effectively there are two points this year Google is likely to officially announce the thing: next week or September/October. I would be shocked if the company’s long-awaited (?) reentry into the category doesn’t, at the very least, get a bit of stage time. As a category, the Android tablet has been very hit or miss over the years — presumably/hopefully the company’s got a unique spin here. I would be surprised if Google jumped back into the space without some sort of novel angle.
+
+The leaks point to a design that would effectively turn the system into one giant Nest dock. It’s not entirely original, as Amazon tried something similar with its Fire tablets, but it would certainly buck the iPad model, which is so pervasive in the industry. Other rumors include the aforementioned Tensor G2, coupled with 8GB of RAM.
+
+Here’s your wildcard, folks: the Pixel Fold. Google has seemingly been laying the groundwork for its own foldable for years. Here’s what I wrote a couple of weeks ago:
+
+Some important background here. First, Google announced foldable screen support for Android back in 2018. Obviously, Samsung was both the big partner and recipient in those days, and Google wanted to make Android development as frictionless as possible for other OEMs in exploring the form factor. The following year, Google foldable patents surfaced. Now, we’re all adults here, who implicitly understand that patents don’t mean a company is working on a product. That said, it’s another key data point in this story. In the intervening years, foldables have begun gathering steam, even outside of the Samsung orbit. I was genuinely amazed by how many different models there were populating the halls of MWC back in March. The leaked renders point to a form factor that is more Samsung Galaxy Z Fold than Samsung Galaxy Z Flip. It also looks like it shares some common design DNA with Oppo’s recently foldable, which is frankly the right direction. EV Leaks says the foldable is half an inch thick when folded and 0.2 inches unfolded, weight in at 283 grams.
+
+As evidenced by our trip to MWC back in February, foldables are no longer fringe devices. It’s true that they’re still cost-prohibitive for most, but it’s getting to the point soon where nearly ever Android manufacturer will have their take on the category. So why shouldn’t Google?
+
+Other less likely hardware rumors include a Google/Nest AirTag competitor (the company announced yesterday that it’s working with Apple to create a standard for the category), new Pixel Buds and a Pixel Watch 2. I’d say all are unlikely — that last one in particular. We didn’t get much in terms of Nest products last year, but so far not much is forthcoming in terms of rumors for home products.
+
+Android is always a tentpole of Google I/O for obvious reasons. We’ve already caught some major glimpses of the mobile operating system, by way of beta releases. As Frederic noted in March, “So far, most of the features Google has talked about have also been developer-centric, with only a few user-facing features exposed to far. That also holds true for this second preview, which mostly focuses on added new security and privacy features.”
+
+The operating system, which is apparently named Upside Down Cake internally, is likely set for a summer release in late-July or August. At the top of the list of potential features are a boost to battery life (can always use one of those), additional accessibility features and privacy/security features, which include blocking users from installing ancient apps over malware concerns.
+
+AI is going to be everywhere. Expect generative AI (Bard) in particular to make appearances in virtually every existing piece of Google consumer software, following the lead of Gmail and Docs. Search and the Chrome browser are prime targets here.
+
+A preview of a new Wear OS seems likely. I don’t anticipate a ton of news on the AR/VR side of things, but I would also be surprised if it doesn’t at least get a nod, given what Apple reportedly has in the works for June.
+
+The keynote kicks off at 10 AM PT on May 10. As ever, TechCrunch will be bringing you the news as it breaks.

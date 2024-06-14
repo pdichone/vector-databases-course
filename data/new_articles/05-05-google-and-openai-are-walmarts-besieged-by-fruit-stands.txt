@@ -1,0 +1,37 @@
+OpenAI may be synonymous with machine learning now and Google is doing its best to pick itself up off the floor, but both may soon face a new threat: rapidly multiplying open source projects that push the state of the art and leave the deep-pocketed but unwieldy corporations in their dust. This Zerg-like threat may not be an existential one, but it will certainly keep the dominant players on the defensive.
+
+The notion is not new by a long shot — in the fast-moving AI community, it’s expected to see this kind of disruption on a weekly basis — but the situation was put in perspective by a widely shared document purported to originate within Google. “We have no moat, and neither does OpenAI,” the memo reads.
+
+I won’t encumber the reader with a lengthy summary of this perfectly readable and interesting piece, but the gist is that while GPT-4 and other proprietary models have obtained the lion’s share of attention and indeed income, the head start they’ve gained with funding and infrastructure is looking slimmer by the day.
+
+While the pace of OpenAI’s releases may seem blistering by the standards of ordinary major software releases, GPT-3, ChatGPT and GPT-4 were certainly hot on each other’s heels if you compare them to versions of iOS or Photoshop. But they are still occurring on the scale of months and years.
+
+What the memo points out is that in March, a leaked foundation language model from Meta, called LLaMA, was leaked in fairly rough form. Within weeks, people tinkering around on laptops and penny-a-minute servers had added core features like instruction tuning, multiple modalities and reinforcement learning from human feedback. OpenAI and Google were probably poking around the code, too, but they didn’t — couldn’t — replicate the level of collaboration and experimentation occurring in subreddits and Discords.
+
+Could it really be that the titanic computation problem that seemed to pose an insurmountable obstacle — a moat — to challengers is already a relic of a different era of AI development?
+
+Sam Altman already noted that we should expect diminishing returns when throwing parameters at the problem. Bigger isn’t always better, sure — but few would have guessed that smaller was instead.
+
+GPT-4 is a Walmart, and nobody actually likes Walmart
+
+The business paradigm being pursued by OpenAI and others right now is a direct descendant of the SaaS model. You have some software or service of high value and you offer carefully gated access to it through an API or some such. It’s a straightforward and proven approach that makes perfect sense when you’ve invested hundreds of millions into developing a single monolithic yet versatile product like a large language model.
+
+If GPT-4 generalizes well to answering questions about precedents in contract law, great — never mind that a huge number of its “intellect” is dedicated to being able to parrot the style of every author who ever published a work in the English language. GPT-4 is like a Walmart. No one actually wants to go there, so the company makes damn sure there’s no other option.
+
+But customers are starting to wonder, why am I walking through 50 aisles of junk to buy a few apples? Why am I hiring the services of the largest and most general-purpose AI model ever created if all I want to do is exert some intelligence in matching the language of this contract against a couple hundred other ones? At the risk of torturing the metaphor (to say nothing of the reader), if GPT-4 is the Walmart you go to for apples, what happens when a fruit stand opens in the parking lot?
+
+It didn’t take long in the AI world for a large language model to be run, in highly truncated form of course, on (fittingly) a Raspberry Pi. For a business like OpenAI, its jockey Microsoft, Google or anyone else in the AI-as-a-service world, it effectively beggars the entire premise of their business: that these systems are so hard to build and run that they have to do it for you. In fact it starts to look like these companies picked and engineered a version of AI that fit their existing business model, not vice versa!
+
+Once upon a time you had to offload the computation involved in word processing to a mainframe — your terminal was just a display. Of course that was a different era, and we’ve long since been able to fit the whole application on a personal computer. That process has occurred many times since as our devices have repeatedly and exponentially increased their capacity for computation. These days when something has to be done on a supercomputer, everyone understands that it’s just a matter of time and optimization.
+
+For Google and OpenAI, the time came a lot quicker than expected. And they weren’t the ones to do the optimizing — and may never be at this rate.
+
+Now, that doesn’t mean that they’re plain out of luck. Google didn’t get where it is by being the best — not for a long time, anyway. Being a Walmart has its benefits. Companies don’t want to have to find the bespoke solution that performs the task they want 30% faster if they can get a decent price from their existing vendor and not rock the boat too much. Never underestimate the value of inertia in business!
+
+Sure, people are iterating on LLaMA so fast that they’re running out of camelids to name them after. Incidentally, I’d like to thank the developers for an excuse to just scroll through hundreds of pictures of cute, tawny vicuñas instead of working. But few enterprise IT departments are going to cobble together an implementation of Stability’s open source derivative-in-progress of a quasi-legal leaked Meta model over OpenAI’s simple, effective API. They’ve got a business to run!
+
+But at the same time, I stopped using Photoshop years ago for image editing and creation because the open source options like Gimp and Paint.net have gotten so incredibly good. At this point, the argument goes the other direction. Pay how much for Photoshop? No way, we’ve got a business to run!
+
+What Google’s anonymous authors are clearly worried about is that the distance from the first situation to the second is going to be much shorter than anyone thought, and there doesn’t appear to be a damn thing anybody can do about it.
+
+Except, the memo argues: embrace it. Open up, publish, collaborate, share, compromise. As they conclude:

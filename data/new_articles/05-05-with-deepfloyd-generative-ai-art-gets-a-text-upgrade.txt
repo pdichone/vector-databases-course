@@ -1,0 +1,41 @@
+Generative AI is pretty impressive in terms of its fidelity these days, as viral memes like Balenciaga Pope would suggest. The latest systems can conjure up scenescapes from city skylines to cafes, creating images that appear startlingly realistic — at least on first glance.
+
+But one of the longstanding weaknesses of text-to-image AI models is, ironically, text. Even the best models struggle to generate images with legible logos, much less text, calligraphy or fonts.
+
+But that might change.
+
+Last week, DeepFloyd, a research group backed by Stability AI, unveiled DeepFloyd IF, a text-to-image model that can “smartly” integrate text into images. Trained on a dataset of more than a billion images and text, DeepFloyd IF, which requires a GPU with at least 16GB of RAM to run, can create an image from a prompt like “a teddy bear wearing a shirt that reads ‘Deep Floyd'” — optionally in a range of styles.
+
+DeepFloyd IF is available in open source, licensed in a way that prohibits commercial use — for now. The restriction was likely motivated by the current tenuous legal status of generative AI art models. Several commercial model vendors are under fire from artists who allege the vendors are profiting from their work without compensating them by scraping that work from the web without permission.
+
+But NightCafe, the generative art platform, was granted early access to DeepFloyd IF.
+
+NightCafe CEO Angus Russell spoke to TechCrunch about what makes DeepFloyd IF different from other text-to-image models and why it might represent a significant step forward for generative AI.
+
+According to Russell, DeepFloyd IF’s design was heavily inspired by Google’s Imagen model, which was never released publicly. In contrast to models like OpenAI’s DALL-E 2 and Stable Diffusion, DeepFloyd IF uses multiple different processes stacked together in a modular architecture to generate images.
+
+With a typical diffusion model, the model learns how to gradually subtract noise from a starting image made almost entirely of noise, moving it closer step by step to the target prompt. DeepFloyd IF performs diffusion not once but several times, generating a 64x64px image then upscaling the image to 256x256px and finally to 1024x1024px.
+
+Why the need for multiple diffusion steps? DeepFloyd IF works directly with pixels, Russell explained. Diffusion models are for the most part latent diffusion models, which essentially means they work in a lower-dimensional space that represents a lot more pixels but in a less accurate way.
+
+The other key difference between DeepFloyd IF and models such as Stable Diffusion and DALL-E 2 is that the former uses a large language model to understand and represent prompts as a vector, a basic data structure. Due to the size of the large language model embedded in DeepFloyd IF’s architecture, the model is particularly good at understanding complex prompts and even spatial relationships described in prompts (e.g. “a red cube on top of a pink sphere”).
+
+“It’s also very good at generating legible and correctly spelled text in images, and can even understand prompts in multiple languages,” Russell added. “Of these capabilities, the ability to generate legible text in images is perhaps the biggest breakthrough to make DeepFloyd IF stand out from other algorithms.”
+
+Because DeepFloyd IF can pretty capably generate text in images, Russell expects it to unlock a wave of new generative art possibilities — think logo design, web design, posters, billboards and even memes. The model should also be much better at generating things like hands, he says, and — because it can understand prompts in other languages — it might be able to create text in those languages, too.
+
+“NightCafe users are excited about DeepFloyd IF largely because of the possibilities that are unlocked by generating text in images,” Russell said. “Stable Diffusion XL was the first open source algorithm to make headway on generating text — it can accurately generate one or two words some of the time — but it’s still not good enough at it for use cases where text is important.”
+
+That’s not to suggest DeepFloyd IF is the holy grail of text-to-image models. Russell notes that the base model doesn’t generate images that are quite as aesthetically pleasing as some diffusion models, although he expects fine-tuning will improve that.
+
+But the bigger question, to me, is to what degree DeepFloyd IF suffers from the same flaws as its generative AI brethren.
+
+A growing body of research has turned up racial, ethnic, gender and other forms of stereotyping in image-generating AI, including Stable Diffusion. Just this month, researchers at AI startup Hugging Face and Leipzig University published a tool demonstrating that models including Stable Diffusion and OpenAI’s DALL-E 2 tend to produce images of people that look white and male, especially when asked to depict people in positions of authority.
+
+The DeepFloyd team, to their credit, note the potential for biases in the fine print accompanying DeepFloyd IF:
+
+Texts and images from communities and cultures that use other languages are likely to be insufficiently accounted for. This affects the overall output of the model, as white and western cultures are often set as the default.
+
+Aside from this, DeepFloyd IF, like other open source generative models, could be used for harm, like generating pornographic celebrity deepfakes and graphic depictions of violence. On the official webpage for DeepFloyd IF, the DeepFloyd team says that they used “custom filters” to remove watermarked, “NSFW” and “other inappropriate content” from the training data.
+
+But it’s unclear exactly which content was removed — and how much might’ve been missed. Ultimately, time will tell.

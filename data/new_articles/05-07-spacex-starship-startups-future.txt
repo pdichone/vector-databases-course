@@ -1,0 +1,11 @@
+SpaceX’s super-heavy launch system Starship is poised to fundamentally reshape the space economy. The 394-foot-tall vehicle, which took to the skies for the first time last month, is designed to carry a staggering amount of mass to low Earth orbit and into deep space.
+
+TechCrunch+ spoke with three pure-play space VCs — Space Capital founder and managing partner Chad Anderson, Space.VC founder and general partner Jonathan Lacoste and E2MC Ventures founder Raphael Roettgen — to learn more about how they advise founders to think through Starship’s super-heavy implications.
+
+While the trio diverges on many fine points, they all agreed that founders should be thinking now about how Starship could affect their operations, for better or worse.
+
+“Starship has such high importance to the space sector that probably almost everyone who has a space company has to war game what that means for their business,” Roettgen said.
+
+Changing the face of launch …
+
+The most obvious way in which Starship is likely to revolutionize the industry is by continuing the trend SpaceX firmly established with the debut of Falcon 9: further lowering the cost of launching mass to space. Starship will be capable of carrying 100 to 150 tons of stuff to orbit, a paradigm-shifting quantity that far outstrips the payload capacity of any rocket that humans have ever designed.

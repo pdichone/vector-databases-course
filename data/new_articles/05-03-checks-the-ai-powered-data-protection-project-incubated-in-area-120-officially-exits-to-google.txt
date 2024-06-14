@@ -1,0 +1,25 @@
+After Google cut all but three of the projects at its in-house incubator Area 120 and shifted it to work on AI projects across Google, one of the legacy efforts — coincidentally also an AI project — is now officially exiting to Google. Checks, an AI-powered tool to check mobile apps for compliance with various privacy rules and regulations, is moving into Google proper as a privacy product aimed at mobile developers.
+
+Checks originally made its debut in February 2022, although it was in development for some time before that. In its time at Area 120, it became one of the largest projects in the group, co-founders Fergus Hurley and Nia Castelly told me, with 10 people fully dedicated to it and a number of others contributing less formally. The founders’ job titles under Google will now be GM and Legal Lead, respectively, for Checks.
+
+The amount that Google invested in the project was never disclosed, nor was the valuation of the exit to the parent company from the incubator, but the company has confirmed that there was a valuation and that it had grown since launch.
+
+The company is not disclosing how many customers it has in total but notes that they are in the sectors of gaming, health, finance, education and retail. A sampling includes Miniclip, Rovio, Kongregate, Crayola and Yousician and in total the number of customers represented by its customers is over 3 billion.
+
+Checks will sit in the Developer X division. “What Fergus, Nia, and the entire Google Checks team have accomplished is one of the hardest things to do. Their focus on customer needs and nimble execution has served them well, and we’re eager to push ahead in this next phase of Checks,” said Jeanine Banks in a statement.
+
+Checks is one of those ideas that feels incredibly timely in that it speaks to an issue that’s growing in importance for consumers — who will vote with their feet when they feel that their privacy is in jeopardy. That in turn also puts more pressure on developers to get things right on the privacy front. App publishers these days are faced with a growing array of rules and regulations around data protection and privacy, not just rules like GDPR in Europe and CCPA in California (and the U.S.) set across different countries and jurisdictions, but also by companies that operate platforms within their own compliance efforts.
+
+When translated into how those regulations impact apps, there are potential issues at the front end, as well as on the back end, with how apps are coded and information moves from one place to another to consider. It’s a spaghetti bowl of issues, with fixes in one area potentially impacting another and making user experience less smooth to boot.
+
+Checks leans on artificial intelligence and machine learning to scan apps and their code to identify areas where there might be violations of privacy and data protection rules, and provides remediation to suggest how to fix it — tasks that would be far more difficult for a team of humans to execute on their own. It’s already integrated with Google’s large language models and what it describes as “app understanding technologies” to power what it identifies and make suggestions for fixing issues.
+
+A dashboard lets users monitor and triage issues in the areas of compliance monitoring, data monitoring and store disclosure support (which is focused specifically on Google Play data safety). With the service also aimed at iOS developers, it’s not clear if it will add Apple App Store data safety at any point into that mix. All of this can be monitored in real time on live apps, as well as when they are still in development.
+
+We have reached out to Google to get an update on the status of the other two projects that were spared all-out closure after Area 120 changed focus. They include video dubbing solution Aloud and an as-yet unnamed consumer product from the team that had previously built a bookmarking app Liist (which got acquired by Google).
+
+As of right now, Liist’s co-founder David Friedl still describes himself on LinkedIn as working on a stealth product at Area 120, and Aloud is still using an Area 120 URL, so it seems that they remain in a holding pattern. (We’ll update this if and when we hear more.)
+
+In the meantime, Area 120 itself is also seeing some revolving doors. Clay Bavor, who was running Area 120 among other things and who messaged the big changes to staff in January, was out the door just a month later. He has now teamed up with Bret Taylor — another ex-Googler who has an outsized track record that includes being the CTO of Facebook and the co-CEO of Salesforce — to work on a mystery startup.
+
+Updated with more information about Checks’ valuation and quote from Google.
