@@ -34,7 +34,7 @@ print(f"Number of documents: {len(documents)}")
 # get embeddings
 embedding = OpenAIEmbeddings(api_key=openai_key, model="text-embedding-3-small")
 
-# Next we instantiate the Chroma object from langchain_community.vectorstores
+# Next we instantiate the Chroma object from langchain_chroma
 persits_directory = "./db/chroma_db_real_world"
 vectordb = Chroma.from_documents(
     documents=documents, embedding=embedding, persist_directory=persits_directory
