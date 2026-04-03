@@ -1,8 +1,7 @@
 import chromadb
+from chromadb.utils.embedding_functions import DefaultEmbeddingFunction
 
-from chromadb.utils import embedding_functions
-
-default_ef = embedding_functions.DefaultEmbeddingFunction()
+default_ef = DefaultEmbeddingFunction()
 croma_client = chromadb.PersistentClient(path="./db/chroma_persist")
 
 collection = croma_client.get_or_create_collection(

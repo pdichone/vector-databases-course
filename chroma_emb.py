@@ -1,6 +1,6 @@
-from chromadb.utils import embedding_functions 
+from chromadb.utils.embedding_functions import DefaultEmbeddingFunction
 
-default_ef = embedding_functions.DefaultEmbeddingFunction()
+default_ef = DefaultEmbeddingFunction()
 
 name = "Paulo"
 

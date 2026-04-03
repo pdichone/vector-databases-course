@@ -1,10 +1,9 @@
 import chromadb
+from chromadb.utils.embedding_functions import DefaultEmbeddingFunction
 
 chroma_client = chromadb.Client()
-from chromadb.utils import embedding_functions
 
-default_ef = embedding_functions.DefaultEmbeddingFunction()
-
+default_ef = DefaultEmbeddingFunction()
 
 
 colection_name = "test_collection"

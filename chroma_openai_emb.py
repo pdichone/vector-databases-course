@@ -1,15 +1,17 @@
 import chromadb
 import os
 from dotenv import load_dotenv
-
-from chromadb.utils import embedding_functions
+from chromadb.utils.embedding_functions import (
+    DefaultEmbeddingFunction,
+    OpenAIEmbeddingFunction,
+)
 
 load_dotenv()
 
 openai_api_key = os.getenv("OPENAI_API_KEY")
 
-default_ef = embedding_functions.DefaultEmbeddingFunction()
-openai_ef = embedding_functions.OpenAIEmbeddingFunction(
+default_ef = DefaultEmbeddingFunction()
+openai_ef = OpenAIEmbeddingFunction(
     api_key=openai_api_key, model_name="text-embedding-3-small"
 )
 croma_client = chromadb.PersistentClient(path="./db/chroma_persist")
