@@ -20,7 +20,7 @@ documents = [
 ]
 
 for doc in documents:
-    collection.upsert(ids=doc["id"], documents=[doc["text"]])
+    collection.upsert(ids=[doc["id"]], documents=[doc["text"]])
 
 # define a query text
 query_text = "find document related to technology company"

@@ -1,7 +1,7 @@
 import os
 
 from dotenv import load_dotenv
-from langchain_community.vectorstores import Chroma
+from langchain_chroma import Chroma
 from langchain_openai import OpenAIEmbeddings
 from langchain_community.document_loaders import DirectoryLoader
 from langchain_community.document_loaders import TextLoader
@@ -18,7 +18,7 @@ openai_key = os.getenv("OPENAI_API_KEY")
 
 model = ChatOpenAI(api_key=openai_key, model="gpt-4")
 
-pinecone_key = os.getenv("PINCONE_API_KEY")
+pinecone_key = os.getenv("PINECONE_API_KEY")
 
 
 # load documents
