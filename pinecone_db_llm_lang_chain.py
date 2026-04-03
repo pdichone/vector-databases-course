@@ -1,13 +1,14 @@
 import os
 
 from dotenv import load_dotenv
-from langchain_chroma import Chroma
 from langchain_openai import OpenAIEmbeddings
 from langchain_community.document_loaders import DirectoryLoader
 from langchain_community.document_loaders import TextLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_openai import ChatOpenAI
-
+from langchain_core.prompts import ChatPromptTemplate
+from langchain_core.output_parsers import StrOutputParser
+from langchain_core.runnables import RunnablePassthrough
 
 from pinecone import Pinecone, ServerlessSpec
 
@@ -16,7 +17,7 @@ load_dotenv()
 
 openai_key = os.getenv("OPENAI_API_KEY")
 
-model = ChatOpenAI(api_key=openai_key, model="gpt-4")
+model = ChatOpenAI(api_key=openai_key, model="gpt-4o-mini")
 
 pinecone_key = os.getenv("PINECONE_API_KEY")
 
@@ -43,9 +44,9 @@ embedding = OpenAIEmbeddings(api_key=openai_key, model="text-embedding-3-small")
 pc = Pinecone(api_key=pinecone_key)
 
 index_name = "tester-index"
-eixsting_indexes = [index_info["name"] for index_info in pc.list_indexes()]
+existing_indexes = [index_info["name"] for index_info in pc.list_indexes()]
 
-if index_name not in eixsting_indexes:
+if index_name not in existing_indexes:
     pc.create_index(
         name=index_name,
         dimension=1536,
@@ -74,38 +75,39 @@ docsearch = PineconeVectorStore.from_documents(
 retriever = docsearch.as_retriever()
 
 
-from langchain_core.prompts import ChatPromptTemplate
-from langchain.chains.combine_documents import create_stuff_documents_chain
-from langchain.chains import create_retrieval_chain
+# Helper function to format retrieved documents
+def format_docs(docs):
+    return "\n\n".join(doc.page_content for doc in docs)
 
-system_prompt = (
-    "You are an assistant for question-answering tasks. "
-    "Use the following pieces of retrieved context to answer "
-    "the question. If you don't know the answer, say that you "
-    "don't know. Use three sentences maximum and keep the "
-    "answer concise."
-    "\n\n"
-    "{context}"
-)
+
+system_prompt = """You are an assistant for question-answering tasks.
+Use the following pieces of retrieved context to answer the question.
+If you don't know the answer, say that you don't know.
+Use three sentences maximum and keep the answer concise.
+
+Context:
+{context}
+"""
 
 prompt = ChatPromptTemplate.from_messages(
     [
         ("system", system_prompt),
-        ("human", "{input}"),
+        ("human", "{question}"),
     ]
 )
 
-question_answer_chain = create_stuff_documents_chain(
-    llm=model,
-    prompt=prompt,
+# Build RAG chain using LCEL (LangChain Expression Language)
+rag_chain = (
+    {"context": retriever | format_docs, "question": RunnablePassthrough()}
+    | prompt
+    | model
+    | StrOutputParser()
 )
 
-rag_chain = create_retrieval_chain(retriever, question_answer_chain)
 
+response = rag_chain.invoke("tell me more about AI and ML news")
 
-response = rag_chain.invoke({"input": "tell me more about AI and ML news"})
-res = response["answer"]
-
-print(res)  # This will print the answer to the question
+print("==== Answer ====")
+print(response)
 
 # pc.delete_index(index_name) ===> To delete the index
