@@ -1,53 +1,50 @@
 import os
 
 from dotenv import load_dotenv
-from langchain_chroma import Chroma
-from langchain_openai import OpenAIEmbeddings
-from langchain_community.document_loaders import DirectoryLoader
-from langchain_community.document_loaders import TextLoader
-from langchain_text_splitters import RecursiveCharacterTextSplitter
-from langchain_openai import ChatOpenAI
-from langchain_core.prompts import ChatPromptTemplate
+from langchain_community.document_loaders import DirectoryLoader, TextLoader
 from langchain_core.output_parsers import StrOutputParser
+from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.runnables import RunnablePassthrough
-
+from langchain_openai import OpenAIEmbeddings
+from langchain_community.vectorstores import Chroma
+from langchain_text_splitters import RecursiveCharacterTextSplitter
+from langchain.chat_models import init_chat_model
 
 load_dotenv()
 
-openai_key = os.getenv("OPENAI_API_KEY")
 
-model = ChatOpenAI(api_key=openai_key, model="gpt-4o-mini")
+model = init_chat_model("gpt-4o-mini")
 
 
-# load documents
+# Load documents with langchain
 loader = DirectoryLoader(
-    path="./data/new_articles/", glob="*.txt", loader_cls=TextLoader
+    path="./data/new_articles", glob="**/*.txt", loader_cls=TextLoader
 )
 document = loader.load()
 
-# split text into sentences
-text_splitter = RecursiveCharacterTextSplitter(
-    separators=["\n\n", "\n"],
-    chunk_size=1000,
-    chunk_overlap=20,
-)
-documents = text_splitter.split_documents(document)
-print(f"Number of documents: {len(documents)}")
+# print(document)
 
-# get embeddings
-embedding = OpenAIEmbeddings(api_key=openai_key, model="text-embedding-3-small")
+# Text splitting
+text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
+texts = text_splitter.split_documents(document)
+print(len(texts))
 
-# Next we instantiate the Chroma object from langchain_chroma
+# print(texts[0])
+
+# Generate embeddings and store in vector database
+embeddings = OpenAIEmbeddings(model="text-embedding-3-small")
+
 persist_directory = "./db/chroma_db_real_world"
 vectordb = Chroma.from_documents(
-    documents=documents, embedding=embedding, persist_directory=persist_directory
+    documents=texts, embedding=embeddings, persist_directory=persist_directory
 )  # This will create the Chroma object and persist the embeddings to the directory
+
 
 # Now we can query the Chroma object for similar sentences
 retriever = vectordb.as_retriever()
 
-# res_docs = retriever.invoke("how much did microsoft raise?", k=2)
-# print(res_docs)
+# res = retriever.invoke("How much did microsoft raise?")
+# print(res)
 
 
 # Helper function to format retrieved documents
@@ -79,8 +76,5 @@ rag_chain = (
     | StrOutputParser()
 )
 
-
-response = rag_chain.invoke("talk about databricks news")
-
-print("==== Answer ====")
+response = rag_chain.invoke("talk about databricks news.")
 print(response)

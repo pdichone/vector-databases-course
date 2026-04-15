@@ -10,7 +10,7 @@ pinecone_key = os.getenv("PINECONE_API_KEY")
 pc = Pinecone(api_key=pinecone_key)
 
 pc.create_index(
-    name="quickstart",
+    name="quickstarts",
     dimension=8,  # Replace with your model dimensions
     metric="euclidean",  # Replace with your model metric
     spec=ServerlessSpec(cloud="aws", region="us-east-1"),

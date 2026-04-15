@@ -89,6 +89,7 @@ Context:
 {context}
 """
 
+
 prompt = ChatPromptTemplate.from_messages(
     [
         ("system", system_prompt),
@@ -104,10 +105,7 @@ rag_chain = (
     | StrOutputParser()
 )
 
-
-response = rag_chain.invoke("tell me more about AI and ML news")
+response = rag_chain.invoke("tell me about databricks news.")
 
 print("==== Answer ====")
 print(response)
-
-# pc.delete_index(index_name) ===> To delete the index
