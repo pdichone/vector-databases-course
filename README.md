@@ -115,7 +115,7 @@ A full section on using PostgreSQL as a vector database with the pgvector extens
 
 | Requirement | Used In |
 |-------------|---------|
-| Python 3.10+ | All sections |
+| Python 3.11+ | All sections |
 | OpenAI API key | Embeddings & LLM calls |
 | Pinecone API key | Pinecone section only |
 | Docker | pgvector section (for local PostgreSQL) |
