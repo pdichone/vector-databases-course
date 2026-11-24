@@ -115,7 +115,8 @@ def generate_response(question, relevant_chunks):
     )
 
     response = client.chat.completions.create(
-        model="gpt-4o-mini",
+        model="gpt-6-luna",
+        reasoning_effort="none",  # gpt-6-luna is a reasoning model; "none" = fast and cheap
         messages=[
             {
                 "role": "system",

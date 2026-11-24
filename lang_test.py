@@ -9,9 +9,10 @@ from langchain.chat_models import init_chat_model
 
 # OLD WAY (still works, but less flexible)
 # from langchain_openai import ChatOpenAI
-# model = ChatOpenAI(model="gpt-4o-mini")
+# model = ChatOpenAI(model="gpt-6-luna", reasoning_effort="none")
 
-model = init_chat_model("gpt-4o-mini")
+# gpt-6-luna is a reasoning model: reasoning_effort="none" keeps it fast and cheap
+model = init_chat_model("gpt-6-luna", reasoning_effort="none")
 
 messages = [
     {"role": "system", "content": "You are a helpful assistant."},
@@ -27,8 +28,9 @@ for chunk in model.stream("explain the theory of relativity"):
 
 
 # model = init_chat_model(
-#     model="gpt-4o-mini",
+#     model="gpt-6-luna",
 #     model_provider="openai",
+#     reasoning_effort="none",
 #     temperature=0.7,
 #     max_tokens=1000
 # )

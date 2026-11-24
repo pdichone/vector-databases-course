@@ -42,7 +42,8 @@ def create_rag_chain(vectorstore, k: int = 3):
     # Components
     retriever = vectorstore.as_retriever(search_kwargs={"k": k})
 
-    llm = ChatOpenAI(model="gpt-4o-mini", temperature=0)
+    # gpt-6-luna is a reasoning model: reasoning_effort="none" keeps it fast and cheap
+    llm = ChatOpenAI(model="gpt-6-luna", reasoning_effort="none", temperature=0)
 
     # Prompt template
     prompt = ChatPromptTemplate.from_template(

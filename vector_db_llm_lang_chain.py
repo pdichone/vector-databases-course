@@ -13,7 +13,8 @@ from langchain.chat_models import init_chat_model
 load_dotenv()
 
 
-model = init_chat_model("gpt-4o-mini")
+# gpt-6-luna is a reasoning model: reasoning_effort="none" keeps it fast and cheap
+model = init_chat_model("gpt-6-luna", reasoning_effort="none")
 
 
 # Load documents with langchain

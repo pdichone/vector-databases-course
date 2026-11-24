@@ -31,7 +31,8 @@ class Config:
 
     # Model settings
     embedding_model: str = "text-embedding-3-small"
-    chat_model: str = "gpt-4o-mini"
+    chat_model: str = "gpt-6-luna"
+    reasoning_effort: str = "none"  # gpt-6-luna is a reasoning model
     temperature: float = 0.0
 
     # Search settings
@@ -74,7 +75,9 @@ class RAGService:
         )
 
         llm = ChatOpenAI(
-            model=self.config.chat_model, temperature=self.config.temperature
+            model=self.config.chat_model,
+            reasoning_effort=self.config.reasoning_effort,
+            temperature=self.config.temperature,
         )
 
         prompt = ChatPromptTemplate.from_template(

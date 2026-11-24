@@ -17,7 +17,8 @@ load_dotenv()
 
 openai_key = os.getenv("OPENAI_API_KEY")
 
-model = ChatOpenAI(api_key=openai_key, model="gpt-4o-mini")
+# gpt-6-luna is a reasoning model: reasoning_effort="none" keeps it fast and cheap
+model = ChatOpenAI(api_key=openai_key, model="gpt-6-luna", reasoning_effort="none")
 
 pinecone_key = os.getenv("PINECONE_API_KEY")
 

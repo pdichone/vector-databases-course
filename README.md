@@ -104,7 +104,7 @@ A full section on using PostgreSQL as a vector database with the pgvector extens
 ### Updates
 - Updated all ChromaDB code to v1.5+ API
 - Updated LangChain imports to use `langchain-chroma` and `langchain-postgres` packages
-- Fixed all deprecated OpenAI model references (now using `gpt-4o-mini`)
+- Fixed all deprecated OpenAI model references (now using `gpt-6-luna` with `reasoning_effort="none"`; `gpt-4o-mini` shuts down Jan 14, 2027)
 - Added `requirements.txt` with pinned dependencies
 - Added `pyproject.toml` and `uv.lock` for reproducible builds
 - All code tested and working with Python 3.13
